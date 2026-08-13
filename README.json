@@ -39,7 +39,7 @@
             "last_commit": "2026-08-12T13:41:50Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37379
+            "stars": 37378
           }
         },
         {
@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T03:54:33Z",
+            "last_commit": "2026-08-13T09:23:26Z",
             "owner": "oxc-project",
             "repo": "oxc",
-            "stars": 22293
+            "stars": 22294
           }
         },
         {
@@ -92,10 +92,10 @@
           "repo_info": {
             "archived": false,
             "language": "CodeQL",
-            "last_commit": "2026-08-12T16:20:28Z",
+            "last_commit": "2026-08-13T09:24:05Z",
             "owner": "github",
             "repo": "codeql",
-            "stars": 9931
+            "stars": 9933
           }
         },
         {
@@ -134,10 +134,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T04:02:43Z",
+            "last_commit": "2026-08-13T09:17:43Z",
             "owner": "classgraph",
             "repo": "classgraph",
-            "stars": 3004
+            "stars": 3005
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2026-08-13T02:06:58Z",
             "owner": "terryyin",
             "repo": "lizard",
-            "stars": 2443
+            "stars": 2444
           }
         },
         {
@@ -316,10 +316,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T14:05:11Z",
+            "last_commit": "2026-08-13T09:33:11Z",
             "owner": "duriantaco",
             "repo": "skylos",
-            "stars": 533
+            "stars": 534
           }
         },
         {
@@ -485,7 +485,7 @@
             "last_commit": "2026-06-30T16:48:10Z",
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6852
+            "stars": 6851
           }
         },
         {
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:09:14.384Z",
+    "last_updated": "2026-08-13T09:38:38.818Z",
     "original_repository": "analysis-tools-dev/static-analysis",
     "original_repository_sha": "66668c6cc5b2db72d0233033efe7ccf2c489aaf8",
     "enhanced_repository": "enhansome/enhansome-static-analysis",
