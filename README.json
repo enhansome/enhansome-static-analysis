@@ -1,0 +1,548 @@
+{
+  "items": [
+    {
+      "description": "This project would not be possible without the generous support of our sponsors.\nIf you also want to support this project, head over to our Github sponsors page.",
+      "items": [],
+      "title": "Sponsors"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Table of Contents"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Programming Languages"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Multiple Languages"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "trivy",
+          "description": "A Simple and Comprehensive Vulnerability Scanner for Containers and other Artifacts, Suitable for CI. Trivy detects vulnerabilities of OS packages (Alpine, RHEL, CentOS, etc.) and application dependencies (Bundler, Composer, npm, yarn, etc.). Checks containers and filesystems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T13:41:50Z",
+            "owner": "aquasecurity",
+            "repo": "trivy",
+            "stars": 37379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESLint",
+          "description": "An extensible linter for JS, following the ECMAScript standard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T19:11:22Z",
+            "owner": "eslint",
+            "repo": "eslint",
+            "stars": 27456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oxc",
+          "description": "The Oxidation Compiler is creating a suite of high-performance tools for the JavaScript / TypeScript language re-written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:54:33Z",
+            "owner": "oxc-project",
+            "repo": "oxc",
+            "stars": 22293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ale",
+          "description": "Asynchronous Lint Engine for Vim and NeoVim with support for many languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-08-09T10:26:28Z",
+            "owner": "dense-analysis",
+            "repo": "ale",
+            "stars": 14015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codeql",
+          "description": "Deep code analysis - semantic queries and dataflow for several languages with VSCode plugin support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CodeQL",
+            "last_commit": "2026-08-12T16:20:28Z",
+            "owner": "github",
+            "repo": "codeql",
+            "stars": 9931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThreatMapper",
+          "description": "Vulnerability Scanner and Risk Evaluation for containers, serverless and hosts at runtime. ThreatMapper generates runtime BOMs from dependencies and operating system packages, matches against multiple threat feeds, scans for unprotected secrets, and scores issues based on severity and risk-of-exploit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-01T08:38:26Z",
+            "owner": "deepfence",
+            "repo": "ThreatMapper",
+            "stars": 5310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ApplicationInspector",
+          "description": "Creates reports of over 400 rule patterns for feature detection (e.g. the use of cryptography or version control in apps).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T03:03:56Z",
+            "owner": "microsoft",
+            "repo": "ApplicationInspector",
+            "stars": 4397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClassGraph",
+          "description": "A classpath and module path scanner for querying or visualizing class metadata or class relatedness.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T04:02:43Z",
+            "owner": "classgraph",
+            "repo": "classgraph",
+            "stars": 3004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bearer",
+          "description": "Open-Source static code analysis tool to discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD). Highly configurable and easily extensible, built for security and engineering teams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T14:48:59Z",
+            "owner": "Bearer",
+            "repo": "bearer",
+            "stars": 2717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pronto",
+          "description": "Quick automated code review of your changes. Supports more than 40 runners for various languages, including Clang, Elixir, JavaScript, PHP, Ruby and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-05-04T04:55:10Z",
+            "owner": "prontolabs",
+            "repo": "pronto",
+            "stars": 2672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "weggli",
+          "description": "A fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-07-12T16:50:14Z",
+            "owner": "weggli-rs",
+            "repo": "weggli",
+            "stars": 2491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lizard",
+          "description": "Lizard is an extensible Cyclomatic Complexity Analyzer for many programming languages including C/C++ (doesn't require all the header files or Java imports). It also does copy-paste detection (code clone detection/code duplicate detection) and many other forms of static code analysis. Counts lines of code without comments, CCN (cyclomatic complexity number), token count of functions, parameter count of functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:06:58Z",
+            "owner": "terryyin",
+            "repo": "lizard",
+            "stars": 2443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pfff",
+          "description": "Facebook's tools for code analysis, visualizations, or style-preserving source transformation for many languages.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "OCaml",
+            "last_commit": "2019-03-27T23:04:23Z",
+            "owner": "facebookarchive",
+            "repo": "pfff",
+            "stars": 2437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TscanCode",
+          "description": "A fast and accurate static analysis solution for C/C++, C#, Lua codes provided by Tencent. Using GPLv3 license.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-12-25T08:33:11Z",
+            "owner": "Tencent",
+            "repo": "TscanCode",
+            "stars": 2114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dotnet-format",
+          "description": "A code formatter for .NET. Preferences will be read from an file, if present, otherwise a default set of preferences will be used. At this time dotnet-format is able to format C# and Visual Basic projects with a subset of supported options.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T05:05:27Z",
+            "owner": "dotnet",
+            "repo": "format",
+            "stars": 1945
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roslyn Analyzers",
+          "description": "Roslyn-based implementation of FxCop analyzers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T05:06:16Z",
+            "owner": "dotnet",
+            "repo": "roslyn-analyzers",
+            "stars": 1672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Undebt",
+          "description": "Language-independent tool for massive, automatic, programmable refactoring based on simple pattern definitions.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-04-05T13:44:46Z",
+            "owner": "YelpArchive",
+            "repo": "undebt",
+            "stars": 1624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevSkim",
+          "description": "Regex-based static analysis tool for Visual Studio, VS Code, and Sublime Text - C/C++, C#, PHP, ASP, Python, Ruby, Java, and others.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T01:39:32Z",
+            "owner": "microsoft",
+            "repo": "DevSkim",
+            "stars": 1002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WALA",
+          "description": "Static analysis capabilities for Java bytecode and related languages and for JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T21:39:21Z",
+            "owner": "wala",
+            "repo": "WALA",
+            "stars": 865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Putout",
+          "description": "Pluggable and configurable code transformer with built-in eslint, babel plugins support for js, jsx typescript, flow, markdown, yaml and json.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T13:55:02Z",
+            "owner": "coderaiser",
+            "repo": "putout",
+            "stars": 797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skylos",
+          "description": "Dead code detection, security scanning, secrets detection, and code quality analysis for Python, TypeScript, and Go. Framework-aware analysis with 98% recall. Includes CI/CD GitHub Action, VS Code extension, and MCP server for AI agent integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T14:05:11Z",
+            "owner": "duriantaco",
+            "repo": "skylos",
+            "stars": 533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlvet",
+          "description": "Performs static analysis on raw SQL queries in your Go code base to surface potential runtime errors. It checks for SQL syntax error, identifies unsafe queries that could potentially lead to SQL injections makes sure column count matches value count in INSERT statements and validates table- and column names.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-03T22:51:28Z",
+            "owner": "houqp",
+            "repo": "sqlvet",
+            "stars": 500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "todocheck",
+          "description": "Linter for integrating annotated TODOs with your issue trackers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-13T07:19:49Z",
+            "owner": "presmihaylov",
+            "repo": "todocheck",
+            "stars": 439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "callGraph",
+          "description": "Statically generates a call graph image and displays it on screen.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2024-11-20T02:51:11Z",
+            "owner": "koknat",
+            "repo": "callGraph",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Depends",
+          "description": "Analyses the comprehensive dependencies of code elements for Java, C/C++, Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-20T10:41:41Z",
+            "owner": "multilang-depends",
+            "repo": "depends",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rev-dep",
+          "description": "Dependency analysis and optimization toolkit for modern JavaScript and TypeScript projects. Trace imports, identify circular dependencies, find unused code, clean node modules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T07:33:20Z",
+            "owner": "jayu",
+            "repo": "rev-dep",
+            "stars": 252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diesel-guard",
+          "description": "Linter for dangerous Postgres migration patterns in Diesel and SQLx. Prevents downtime caused by unsafe schema changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T13:06:29Z",
+            "owner": "ayarotsky",
+            "repo": "diesel-guard",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "relint",
+          "description": "A static file linter that allows you to write custom rules using regular expressions (RegEx).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T17:25:03Z",
+            "owner": "codingjoe",
+            "repo": "relint",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenStaticAnalyzer",
+          "description": "OpenStaticAnalyzer is a source code analyzer tool, which can perform deep static analysis of the source code of complex systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-11-09T15:32:11Z",
+            "owner": "sed-inf-u-szeged",
+            "repo": "OpenStaticAnalyzer",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlockWatch",
+          "description": "A language-agnostic linter that keeps code, documentation, and configuration in sync and enforces strict formatting and validation rules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-04T03:23:59Z",
+            "owner": "mennanov",
+            "repo": "blockwatch",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PVS-Studio",
+          "description": "copyright: — A (conditionally free for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes you can propose a large FOSS project for analysis by PVS employees. Supports CWE mapping, OWASP ASVS, MISRA, AUTOSAR and SEI CERT coding standards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-08T07:19:41Z",
+            "owner": "viva64",
+            "repo": "pvs-studio-check-list",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangLint",
+          "description": "Automated translation platform for code comments and docstrings across 20+ file types. Eliminates language barriers in international software collaboration. Supports 100+ language pairs with syntax protection. Integrates into CI/CD pipelines like Ruff. 10-20x faster with concurrent processing.",
+          "children": []
+        }
+      ],
+      "title": "Multiple languages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "go-tools",
+          "description": "A collection of tools and libraries for working with Go code, including linters and static analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-30T16:48:10Z",
+            "owner": "dominikh",
+            "repo": "go-tools",
+            "stars": 6852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "php-static-analysis-tools",
+          "description": "A reviewed list of useful PHP static analysis tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-07T05:43:52Z",
+            "owner": "exakat",
+            "repo": "php-static-analysis-tools",
+            "stars": 2878
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "linters",
+          "description": "An introduction to static code analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-17T00:37:45Z",
+            "owner": "mcandre",
+            "repo": "linters",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clean code linters",
+          "description": "A collection of linters in github collections",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Code Quality Checker Tools For PHP Projects",
+          "description": "A collection of PHP linters in github collections",
+          "children": []
+        }
+      ],
+      "title": "More Collections"
+    },
+    {
+      "description": "To the extent possible under law, Matthias Endler has waived all copyright and related or neighboring rights to this work. The underlying source code used to format and display that content is licensed under the MIT license.\nTitle image Designed by Freepik.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:09:14.384Z",
+    "original_repository": "analysis-tools-dev/static-analysis",
+    "original_repository_sha": "66668c6cc5b2db72d0233033efe7ccf2c489aaf8",
+    "enhanced_repository": "enhansome/enhansome-static-analysis",
+    "enhanced_repository_description": null,
+    "title": "Awesome static analysis with stars"
+  }
+}
