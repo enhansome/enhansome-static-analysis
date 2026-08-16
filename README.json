@@ -39,7 +39,7 @@
             "last_commit": "2026-08-14T12:20:40Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37406
+            "stars": 37422
           }
         },
         {
@@ -50,7 +50,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T16:47:02Z",
+            "last_commit": "2026-08-16T04:06:17Z",
             "owner": "eslint",
             "repo": "eslint",
             "stars": 27456
@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T07:02:34Z",
+            "last_commit": "2026-08-16T08:49:50Z",
             "owner": "oxc-project",
             "repo": "oxc",
-            "stars": 22323
+            "stars": 22334
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-09T10:26:28Z",
             "owner": "dense-analysis",
             "repo": "ale",
-            "stars": 14013
+            "stars": 14014
           }
         },
         {
@@ -95,7 +95,7 @@
             "last_commit": "2026-08-14T17:38:47Z",
             "owner": "github",
             "repo": "codeql",
-            "stars": 9942
+            "stars": 9944
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-06-01T08:38:26Z",
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5310
+            "stars": 5311
           }
         },
         {
@@ -120,7 +120,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T03:03:56Z",
+            "last_commit": "2026-08-16T02:35:03Z",
             "owner": "microsoft",
             "repo": "ApplicationInspector",
             "stars": 4397
@@ -134,7 +134,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T00:34:57Z",
+            "last_commit": "2026-08-16T08:39:26Z",
             "owner": "classgraph",
             "repo": "classgraph",
             "stars": 3005
@@ -151,7 +151,7 @@
             "last_commit": "2026-08-03T14:48:59Z",
             "owner": "Bearer",
             "repo": "bearer",
-            "stars": 2719
+            "stars": 2725
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-05-04T04:55:10Z",
             "owner": "prontolabs",
             "repo": "pronto",
-            "stars": 2672
+            "stars": 2671
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2026-08-13T02:06:58Z",
             "owner": "terryyin",
             "repo": "lizard",
-            "stars": 2448
+            "stars": 2449
           }
         },
         {
@@ -277,7 +277,7 @@
             "last_commit": "2026-08-14T23:20:23Z",
             "owner": "microsoft",
             "repo": "DevSkim",
-            "stars": 1002
+            "stars": 1003
           }
         },
         {
@@ -302,7 +302,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T23:05:10Z",
+            "last_commit": "2026-08-15T23:03:09Z",
             "owner": "coderaiser",
             "repo": "putout",
             "stars": 797
@@ -316,7 +316,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T08:44:00Z",
+            "last_commit": "2026-08-16T07:45:41Z",
             "owner": "duriantaco",
             "repo": "skylos",
             "stars": 537
@@ -442,7 +442,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-04T03:23:59Z",
+            "last_commit": "2026-08-15T21:36:46Z",
             "owner": "mennanov",
             "repo": "blockwatch",
             "stars": 29
@@ -485,7 +485,7 @@
             "last_commit": "2026-06-30T16:48:10Z",
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6849
+            "stars": 6850
           }
         },
         {
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T08:52:16.082Z",
+    "last_updated": "2026-08-16T08:55:03.197Z",
     "original_repository": "analysis-tools-dev/static-analysis",
     "original_repository_sha": "66668c6cc5b2db72d0233033efe7ccf2c489aaf8",
     "enhanced_repository": "enhansome/enhansome-static-analysis",
