@@ -36,10 +36,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T12:20:40Z",
+            "last_commit": "2026-08-17T12:43:05Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37441
+            "stars": 37468
           }
         },
         {
@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T09:04:03Z",
+            "last_commit": "2026-08-18T08:58:18Z",
             "owner": "oxc-project",
             "repo": "oxc",
-            "stars": 22344
+            "stars": 22349
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-09T10:26:28Z",
             "owner": "dense-analysis",
             "repo": "ale",
-            "stars": 14014
+            "stars": 14015
           }
         },
         {
@@ -92,10 +92,10 @@
           "repo_info": {
             "archived": false,
             "language": "CodeQL",
-            "last_commit": "2026-08-17T08:14:28Z",
+            "last_commit": "2026-08-18T07:18:32Z",
             "owner": "github",
             "repo": "codeql",
-            "stars": 9952
+            "stars": 9962
           }
         },
         {
@@ -120,7 +120,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-16T16:00:38Z",
+            "last_commit": "2026-08-17T23:04:15Z",
             "owner": "microsoft",
             "repo": "ApplicationInspector",
             "stars": 4397
@@ -134,7 +134,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T09:01:45Z",
+            "last_commit": "2026-08-18T08:50:20Z",
             "owner": "classgraph",
             "repo": "classgraph",
             "stars": 3005
@@ -151,7 +151,7 @@
             "last_commit": "2026-08-17T02:33:52Z",
             "owner": "Bearer",
             "repo": "bearer",
-            "stars": 2726
+            "stars": 2727
           }
         },
         {
@@ -190,10 +190,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T02:06:58Z",
+            "last_commit": "2026-08-18T04:42:58Z",
             "owner": "terryyin",
             "repo": "lizard",
-            "stars": 2450
+            "stars": 2451
           }
         },
         {
@@ -302,10 +302,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T22:25:41Z",
+            "last_commit": "2026-08-17T22:31:32Z",
             "owner": "coderaiser",
             "repo": "putout",
-            "stars": 797
+            "stars": 796
           }
         },
         {
@@ -319,7 +319,7 @@
             "last_commit": "2026-08-16T14:08:01Z",
             "owner": "duriantaco",
             "repo": "skylos",
-            "stars": 538
+            "stars": 539
           }
         },
         {
@@ -400,7 +400,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-10T13:06:29Z",
+            "last_commit": "2026-08-17T13:06:37Z",
             "owner": "ayarotsky",
             "repo": "diesel-guard",
             "stars": 120
@@ -414,7 +414,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T17:25:03Z",
+            "last_commit": "2026-08-17T23:24:09Z",
             "owner": "codingjoe",
             "repo": "relint",
             "stars": 66
@@ -513,7 +513,7 @@
             "last_commit": "2026-03-17T00:37:45Z",
             "owner": "mcandre",
             "repo": "linters",
-            "stars": 350
+            "stars": 351
           }
         },
         {
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:06:48.619Z",
+    "last_updated": "2026-08-18T09:01:47.966Z",
     "original_repository": "analysis-tools-dev/static-analysis",
     "original_repository_sha": "66668c6cc5b2db72d0233033efe7ccf2c489aaf8",
     "enhanced_repository": "enhansome/enhansome-static-analysis",
