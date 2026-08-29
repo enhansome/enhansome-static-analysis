@@ -5,48 +5,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "STOKE",
-          "description": "A programming-language agnostic stochastic optimizer for the x86_64 instruction set. It uses random search to explore the extremely high-dimensional space of all possible program transformations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "STOKE: A stochastic superoptimizer and program synthesizer",
-            "homepage": "http://stoke.stanford.edu",
-            "id": 16772554,
-            "language": "C++",
-            "license": "Apache-2.0",
-            "last_commit": "2023-08-14T13:45:31Z",
-            "open_issues": 64,
-            "owner": "StanfordPL",
-            "repo": "stoke",
-            "stars": 873,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "weggli",
-          "description": "A fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "weggli is a fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.",
-            "homepage": null,
-            "id": 412132838,
-            "language": "Rust",
-            "license": "Apache-2.0",
-            "last_commit": "2024-07-12T16:50:14Z",
-            "open_issues": 47,
-            "owner": "weggli-rs",
-            "repo": "weggli",
-            "stars": 2492,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
           "title": "cpplint",
           "description": "Automated C++ checker that follows Google's style guide.",
           "children": [],
@@ -151,7 +109,7 @@
             "id": 161542279,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-27T19:44:15Z",
+            "last_commit": "2026-08-29T13:26:26Z",
             "open_issues": 4,
             "owner": "meziantou",
             "repo": "Meziantou.Analyzer",
@@ -195,69 +153,6 @@
               "static-code-analysis",
               "visual-basic"
             ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Wintellect.Analyzers",
-          "description": ".NET Compiler Platform (\"Roslyn\") diagnostic analyzers and code fixes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ".NET Compiler Platform (\"Roslyn\") diagnostic analyzers and code fixes written by Wintellect",
-            "homepage": null,
-            "id": 26662936,
-            "language": "C#",
-            "license": "NOASSERTION",
-            "last_commit": "2016-11-25T03:49:58Z",
-            "open_issues": 2,
-            "owner": "Wintellect",
-            "repo": "Wintellect.Analyzers",
-            "stars": 89,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "VSDiagnostics",
-          "description": "A collection of static analyzers based on Roslyn that integrates with VS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A collection of static analyzers based on Roslyn that integrate with VS",
-            "homepage": null,
-            "id": 34992631,
-            "language": "C#",
-            "license": "GPL-2.0",
-            "last_commit": "2023-01-21T17:19:56Z",
-            "open_issues": 182,
-            "owner": "Vannevelj",
-            "repo": "VSDiagnostics",
-            "stars": 67,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "weggli",
-          "description": "A fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "weggli is a fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.",
-            "homepage": null,
-            "id": 412132838,
-            "language": "Rust",
-            "license": "Apache-2.0",
-            "last_commit": "2024-07-12T16:50:14Z",
-            "open_issues": 47,
-            "owner": "weggli-rs",
-            "repo": "weggli",
-            "stars": 2492,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
         },
@@ -432,10 +327,10 @@
             "language": "Elixir",
             "license": "MIT",
             "last_commit": "2026-08-26T19:43:10Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "rrrene",
             "repo": "credo",
-            "stars": 5213,
+            "stars": 5214,
             "topics": [
               "code-analysis",
               "credo",
@@ -473,32 +368,6 @@
         },
         {
           "node_type": "item",
-          "title": "sobelow",
-          "description": "Security-focused static analysis for the Phoenix Framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Security-focused static analysis for the Phoenix Framework",
-            "homepage": null,
-            "id": 91115786,
-            "language": "Elixir",
-            "license": "Apache-2.0",
-            "last_commit": "2024-08-20T20:05:42Z",
-            "open_issues": 38,
-            "owner": "nccgroup",
-            "repo": "sobelow",
-            "stars": 1791,
-            "topics": [
-              "elixir",
-              "phoenix-framework",
-              "security",
-              "static-analysis"
-            ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
           "title": "elvis",
           "description": "Erlang Style Reviewer.",
           "children": [],
@@ -519,38 +388,6 @@
               "erlang",
               "hacktoberfest",
               "style-checker"
-            ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Primitive Erlang Security Tool (PEST)",
-          "description": "A tool to do a basic scan of Erlang source code and report any function calls that may cause Erlang source code to be insecure.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":beetle:  Primitive Erlang Security Tool",
-            "homepage": null,
-            "id": 72314630,
-            "language": "Erlang",
-            "license": "MIT",
-            "last_commit": "2023-12-15T01:44:13Z",
-            "open_issues": 0,
-            "owner": "okeuday",
-            "repo": "pest",
-            "stars": 104,
-            "topics": [
-              "elixir",
-              "elixir-security",
-              "erlang",
-              "erlang-security",
-              "security",
-              "security-audit",
-              "security-scanner",
-              "static-analysis",
-              "static-code-analysis",
-              "vulnerability-detection"
             ]
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
@@ -733,29 +570,6 @@
         },
         {
           "node_type": "item",
-          "title": "structslop",
-          "description": "Static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "structslop is a static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency.",
-            "homepage": null,
-            "id": 296542581,
-            "language": "Go",
-            "license": "Apache-2.0",
-            "last_commit": "2024-02-08T11:39:21Z",
-            "open_issues": 11,
-            "owner": "orijtech",
-            "repo": "structslop",
-            "stars": 831,
-            "topics": [
-              "golang"
-            ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
           "title": "prealloc",
           "description": "Finds slice declarations that could potentially be preallocated.",
           "children": [],
@@ -814,27 +628,6 @@
         },
         {
           "node_type": "item",
-          "title": "safesql",
-          "description": "Static analysis tool for Golang that protects against SQL injections.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Static analysis tool for Golang that protects against SQL injections     ",
-            "homepage": null,
-            "id": 30325992,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2021-09-20T21:02:47Z",
-            "open_issues": 12,
-            "owner": "stripe-archive",
-            "repo": "safesql",
-            "stars": 558,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
           "title": "unconvert",
           "description": "Detect redundant type conversions.",
           "children": [],
@@ -851,36 +644,6 @@
             "repo": "unconvert",
             "stars": 387,
             "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "shisho",
-          "description": "A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Lightweight static analyzer for several programming languages",
-            "homepage": "https://docs.shisho.dev",
-            "id": 390314995,
-            "language": "Rust",
-            "license": "AGPL-3.0",
-            "last_commit": "2023-08-07T06:55:18Z",
-            "open_issues": 38,
-            "owner": "flatt-security",
-            "repo": "shisho",
-            "stars": 385,
-            "topics": [
-              "code-analysis",
-              "devsecops",
-              "go",
-              "rust",
-              "security",
-              "static-analysis",
-              "terraform",
-              "terraform-security"
-            ]
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
         },
@@ -1113,7 +876,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-29T03:04:47Z",
-            "open_issues": 146,
+            "open_issues": 147,
             "owner": "uber",
             "repo": "NullAway",
             "stars": 4093,
@@ -1141,7 +904,7 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T19:05:17Z",
-            "open_issues": 441,
+            "open_issues": 442,
             "owner": "typetools",
             "repo": "checker-framework",
             "stars": 1149,
@@ -1169,7 +932,7 @@
             "open_issues": 59,
             "owner": "refactorfirst",
             "repo": "RefactorFirst",
-            "stars": 542,
+            "stars": 543,
             "topics": [
               "cycle-analysis",
               "cycle-detection",
@@ -1200,7 +963,7 @@
             "open_issues": 33,
             "owner": "mauricioaniche",
             "repo": "ck",
-            "stars": 455,
+            "stars": 456,
             "topics": [
               "code-metrics",
               "metrics",
@@ -1325,7 +1088,7 @@
             "id": 48246447,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-28T16:40:37Z",
+            "last_commit": "2026-08-29T11:56:02Z",
             "open_issues": 11,
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
@@ -1520,32 +1283,6 @@
         },
         {
           "node_type": "item",
-          "title": "Sys",
-          "description": "A static/symbolic Tool for finding bugs in (browser) code. It uses the LLVM AST to find bugs like uninitialized memory access.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Sys: A Static/Symbolic Tool for Finding Good Bugs in Good (Browser) Code",
-            "homepage": "https://cseweb.ucsd.edu/~dstefan/pubs/brown:2020:sys.pdf",
-            "id": 275685202,
-            "language": "LLVM",
-            "license": "GPL-2.0",
-            "last_commit": "2022-03-14T21:03:21Z",
-            "open_issues": 13,
-            "owner": "PLSysSec",
-            "repo": "sys",
-            "stars": 239,
-            "topics": [
-              "bug-finding",
-              "security",
-              "static-analysis",
-              "symbolic-execution"
-            ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
           "title": "churn-php",
           "description": "Helps discover good candidates for refactoring.",
           "children": [],
@@ -1615,7 +1352,7 @@
             "language": "PHP",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-23T19:01:01Z",
-            "open_issues": 71,
+            "open_issues": 72,
             "owner": "nikic",
             "repo": "PHP-Parser",
             "stars": 17462,
@@ -1668,11 +1405,11 @@
             "id": 139191005,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-28T06:43:05Z",
-            "open_issues": 122,
+            "last_commit": "2026-08-29T12:02:34Z",
+            "open_issues": 120,
             "owner": "larastan",
             "repo": "larastan",
-            "stars": 6494,
+            "stars": 6495,
             "topics": [
               "code-analysis",
               "laravel",
@@ -1855,7 +1592,7 @@
             "open_issues": 17,
             "owner": "carlosas",
             "repo": "phpat",
-            "stars": 1275,
+            "stars": 1274,
             "topics": [
               "architecture",
               "linter",
@@ -1951,27 +1688,6 @@
         },
         {
           "node_type": "item",
-          "title": "Qafoo Quality Analyzer",
-          "description": "Visualizes metrics and source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Tool helping us to analyze software projects",
-            "homepage": null,
-            "id": 44381069,
-            "language": "JavaScript",
-            "license": "AGPL-3.0",
-            "last_commit": "2019-12-06T12:45:14Z",
-            "open_issues": 13,
-            "owner": "Qafoo",
-            "repo": "QualityAnalyzer",
-            "stars": 490,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
           "title": "PHP Semantic Versioning Checker",
           "description": "Suggests a next version according to semantic versioning.",
           "children": [],
@@ -1999,32 +1715,6 @@
         },
         {
           "node_type": "item",
-          "title": "Progpilot",
-          "description": "A static analysis tool for security purposes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A static analysis tool for security",
-            "homepage": null,
-            "id": 94920753,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2025-08-17T18:31:51Z",
-            "open_issues": 4,
-            "owner": "designsecurity",
-            "repo": "progpilot",
-            "stars": 367,
-            "topics": [
-              "php",
-              "security-tools",
-              "static-code-analysis",
-              "vulnerability-scanners"
-            ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
           "title": "parallel-lint",
           "description": "This tool checks syntax of PHP files faster than serial check with a fancier output.",
           "children": [],
@@ -2040,27 +1730,6 @@
             "owner": "php-parallel-lint",
             "repo": "PHP-Parallel-Lint",
             "stars": 357,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Tuli",
-          "description": "A static analysis engine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A static analysis engine",
-            "homepage": null,
-            "id": 38906346,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2015-10-23T17:55:59Z",
-            "open_issues": 7,
-            "owner": "ircmaxell",
-            "repo": "Tuli",
-            "stars": 169,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
@@ -2086,27 +1755,6 @@
               "hacktoberfest",
               "reflection"
             ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "twig-lint",
-          "description": "twig-lint is a lint tool for your twig files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Standalone twig linter.",
-            "homepage": null,
-            "id": 7751676,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2021-11-19T12:49:23Z",
-            "open_issues": 14,
-            "owner": "asm89",
-            "repo": "twig-lint",
-            "stars": 118,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
         },
@@ -2149,36 +1797,11 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T23:12:01Z",
-            "open_issues": 321,
+            "open_issues": 322,
             "owner": "microsoft",
             "repo": "pyright",
             "stars": 15604,
             "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "yapf",
-          "description": "A formatter for Python files created by Google YAPF follows a distinctive methodology, originating from the 'clang-format' tool created by Daniel Jasper. Essentially, the program reframes the code to the most suitable formatting that abides by the style guide, even if the original code already follows the style guide. This concept is similar to the Go programming language's 'gofmt' tool, which aims to put an end to debates about formatting by having the entire codebase of a project pass through YAPF whenever changes are made, thereby maintaining a consistent style throughout the project and eliminating the need to argue about style in every code review.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A formatter for Python files",
-            "homepage": null,
-            "id": 32476524,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-08-28T19:58:01Z",
-            "open_issues": 417,
-            "owner": "google",
-            "repo": "yapf",
-            "stars": 13982,
-            "topics": [
-              "formatter",
-              "google",
-              "python"
-            ]
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
         },
@@ -2319,8 +1942,8 @@
         },
         {
           "node_type": "item",
-          "title": "xenon",
-          "description": "Monitor code complexity using .",
+          "title": "xenon :warning: — Monitor code complexity using",
+          "description": ".",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2642,8 +2265,8 @@
             "id": 277089,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-08-28T00:02:38Z",
-            "open_issues": 8,
+            "last_commit": "2026-08-29T08:01:18Z",
+            "open_issues": 7,
             "owner": "flyerhzm",
             "repo": "bullet",
             "stars": 7336,
@@ -2872,27 +2495,6 @@
         },
         {
           "node_type": "item",
-          "title": "Traceroute",
-          "description": "A Rake task gem that helps you find the unused routes and controller actions for your Rails 3+ app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Rake task gem that helps you find the unused routes and controller actions for your Rails 3+ app",
-            "homepage": null,
-            "id": 1707744,
-            "language": "Ruby",
-            "license": "MIT",
-            "last_commit": "2025-04-29T09:06:34Z",
-            "open_issues": 16,
-            "owner": "amatsuda",
-            "repo": "traceroute",
-            "stars": 904,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
           "title": "ERB Lint",
           "description": "Lint your ERB or HTML files",
           "children": [],
@@ -2909,31 +2511,6 @@
             "repo": "erb_lint",
             "stars": 747,
             "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Rubrowser",
-          "description": "Ruby classes interactive dependency graph generator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "a ruby code dependency graph interactive visualizer",
-            "homepage": null,
-            "id": 66382841,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2023-08-19T01:10:49Z",
-            "open_issues": 2,
-            "owner": "emad-elsaid",
-            "repo": "rubrowser",
-            "stars": 645,
-            "topics": [
-              "graph",
-              "ruby",
-              "visualizer"
-            ]
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
         },
@@ -2967,74 +2544,6 @@
         },
         {
           "node_type": "item",
-          "title": "Roodi",
-          "description": "Roodi stands for Ruby Object Oriented Design Inferometer. It parses your Ruby code and warns you about design issues you have based on the checks that it has configured.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Ruby Object Oriented Design Inferometer",
-            "homepage": null,
-            "id": 44967,
-            "language": "Ruby",
-            "license": null,
-            "last_commit": "2021-02-11T05:40:50Z",
-            "open_issues": 2,
-            "owner": "roodi",
-            "repo": "roodi",
-            "stars": 278,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Querly",
-          "description": "Pattern Based Checking Tool for Ruby.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Query Method Calls from Ruby Programs",
-            "homepage": null,
-            "id": 67342015,
-            "language": "Ruby",
-            "license": "MIT",
-            "last_commit": "2022-10-31T05:51:00Z",
-            "open_issues": 11,
-            "owner": "soutaro",
-            "repo": "querly",
-            "stars": 252,
-            "topics": [
-              "analysis",
-              "checker",
-              "linter",
-              "ruby"
-            ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "quality",
-          "description": "Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Quality is a tool that runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.  Just add 'rake quality' as part of your Continuous Integration.",
-            "homepage": null,
-            "id": 12030578,
-            "language": "Ruby",
-            "license": "MIT",
-            "last_commit": "2023-11-02T21:26:44Z",
-            "open_issues": 29,
-            "owner": "apiology",
-            "repo": "quality",
-            "stars": 156,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
           "title": "kani",
           "description": "The Kani Rust Verifier is a bit-precise model checker for Rust. Kani is particularly useful for verifying unsafe code blocks in Rust, where the \"unsafe superpowers\" are unchecked by the compiler. Kani verifies:",
           "children": [],
@@ -3049,7 +2558,7 @@
             "open_issues": 477,
             "owner": "model-checking",
             "repo": "kani",
-            "stars": 3353,
+            "stars": 3354,
             "topics": [
               "model-checking",
               "rust",
@@ -3135,8 +2644,8 @@
             "id": 83153561,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-08-27T12:01:59Z",
-            "open_issues": 154,
+            "last_commit": "2026-08-29T06:11:26Z",
+            "open_issues": 152,
             "owner": "rustsec",
             "repo": "advisory-db",
             "stars": 1168,
@@ -3226,7 +2735,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:33:54Z",
-            "open_issues": 936,
+            "open_issues": 938,
             "owner": "rust-lang",
             "repo": "rustfmt",
             "stars": 6952,
@@ -3235,31 +2744,6 @@
               "formatter",
               "rust",
               "rustfmt"
-            ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Rust Language Server",
-          "description": "Supports functionality such as 'goto definition', symbol search, reformatting, and code completion, and enables renaming and refactorings.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Repository for the Rust Language Server (aka RLS)",
-            "homepage": null,
-            "id": 66979953,
-            "language": "Rust",
-            "license": "NOASSERTION",
-            "last_commit": "2022-08-29T21:32:29Z",
-            "open_issues": 293,
-            "owner": "rust-lang",
-            "repo": "rls",
-            "stars": 3498,
-            "topics": [
-              "ide",
-              "language-server-protocol",
-              "rust"
             ]
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
@@ -3303,32 +2787,6 @@
             "repo": "Rudra",
             "stars": 1368,
             "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "rustfix",
-          "description": "Read and apply the suggestions made by rustc (and third-party lints, like those offered by clippy).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Automatically apply the suggestions made by rustc",
-            "homepage": null,
-            "id": 62793556,
-            "language": "Rust",
-            "license": "Apache-2.0",
-            "last_commit": "2023-11-22T03:39:37Z",
-            "open_issues": 0,
-            "owner": "rust-lang",
-            "repo": "rustfix",
-            "stars": 852,
-            "topics": [
-              "cargo",
-              "cli",
-              "hacktoberfest",
-              "rust"
-            ]
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
         },
@@ -3390,83 +2848,6 @@
         },
         {
           "node_type": "item",
-          "title": "warnalyzer",
-          "description": "Show unused code from multi-crate Rust projects",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Show unused code from multi-crate Rust projects",
-            "homepage": null,
-            "id": 189415348,
-            "language": "Rust",
-            "license": "NOASSERTION",
-            "last_commit": "2024-09-10T01:26:09Z",
-            "open_issues": 8,
-            "owner": "est31",
-            "repo": "warnalyzer",
-            "stars": 166,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "prae",
-          "description": "Provides a convenient macro that allows you to generate type wrappers that promise to always uphold arbitrary invariants that you specified.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "prae is a crate that aims to provide a better way to define types that require validation.",
-            "homepage": null,
-            "id": 380144403,
-            "language": "Rust",
-            "license": "Unlicense",
-            "last_commit": "2023-01-31T14:29:18Z",
-            "open_issues": 6,
-            "owner": "teenjuna",
-            "repo": "prae",
-            "stars": 136,
-            "topics": [
-              "macros",
-              "rust",
-              "rust-library",
-              "validation"
-            ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "sqlcheck",
-          "description": "Automatically identify anti-patterns in SQL queries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Automatically identify anti-patterns in SQL queries",
-            "homepage": null,
-            "id": 87006792,
-            "language": "C++",
-            "license": "Apache-2.0",
-            "last_commit": "2024-02-21T13:30:05Z",
-            "open_issues": 14,
-            "owner": "jarulraj",
-            "repo": "sqlcheck",
-            "stars": 2522,
-            "topics": [
-              "command-line",
-              "database",
-              "microsoft-sql-server",
-              "mysql",
-              "oracle",
-              "postgresql",
-              "sql",
-              "sqlite3"
-            ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
           "title": "sqlint",
           "description": "Simple SQL linter.",
           "children": [],
@@ -3483,33 +2864,6 @@
             "repo": "sqlint",
             "stars": 440,
             "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "sleek",
-          "description": "Sleek is a CLI tool for formatting SQL. It helps you maintain a consistent style across your SQL code, enhancing readability and productivity. The heavy lifting is done by the sqlformat crate.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Sleek is a CLI tool for formatting SQL. It helps you maintain a consistent style across your SQL code, enhancing readability and productivity.",
-            "homepage": null,
-            "id": 625010087,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2025-11-18T13:12:34Z",
-            "open_issues": 21,
-            "owner": "nrempel",
-            "repo": "sleek",
-            "stars": 280,
-            "topics": [
-              "cli",
-              "command-line",
-              "command-line-tool",
-              "formatter",
-              "sql"
-            ]
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
         },
@@ -3571,7 +2925,7 @@
             "id": 457896639,
             "language": "Python",
             "license": "PostgreSQL",
-            "last_commit": "2026-08-29T02:46:31Z",
+            "last_commit": "2026-08-29T13:53:07Z",
             "open_issues": 9,
             "owner": "timescale",
             "repo": "pgspot",
@@ -3580,32 +2934,6 @@
               "postgresql",
               "python",
               "security"
-            ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TSqlRules",
-          "description": "TSQL Static Code Analysis Rules for SQL Server.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "TSQL Static Code Analysis Rules for SQL Server",
-            "homepage": null,
-            "id": 82435728,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2017-02-21T18:19:01Z",
-            "open_issues": 0,
-            "owner": "ashleyglee",
-            "repo": "TSqlRules",
-            "stars": 29,
-            "topics": [
-              "codeanalysis",
-              "sqlserver",
-              "ssdt",
-              "visual-studio"
             ]
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
@@ -3677,7 +3005,7 @@
             "open_issues": 304,
             "owner": "nicklockwood",
             "repo": "SwiftFormat",
-            "stars": 8922,
+            "stars": 8923,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
@@ -3747,7 +3075,7 @@
             "open_issues": 1,
             "owner": "palantir",
             "repo": "tslint",
-            "stars": 5902,
+            "stars": 5901,
             "topics": [
               "linter",
               "linting-rules",
@@ -3874,52 +3202,6 @@
         },
         {
           "node_type": "item",
-          "title": "verible-linter-action",
-          "description": "Automatic SystemVerilog linting in github actions with the help of Verible Used to lint Verilog and SystemVerilog source files and comment erroneous lines of code in Pull Requests automatically.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Automatic SystemVerilog linting in github actions with the help of Verible",
-            "homepage": null,
-            "id": 399399609,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2024-10-23T07:37:41Z",
-            "open_issues": 5,
-            "owner": "chipsalliance",
-            "repo": "verible-linter-action",
-            "stars": 38,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "vint",
-          "description": "Fast and Highly Extensible Vim script Language Lint implemented by Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Fast and Highly Extensible Vim script Language Lint implemented in Python.",
-            "homepage": null,
-            "id": 20857415,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2023-12-29T07:20:16Z",
-            "open_issues": 90,
-            "owner": "Vimjas",
-            "repo": "vint",
-            "stars": 707,
-            "topics": [
-              "lint",
-              "vim",
-              "vim-script"
-            ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
           "title": "Twiggy",
           "description": "Analyzes a binary's call graph to profile code size. The goal is to slim down wasm binary size.",
           "children": [],
@@ -3955,7 +3237,7 @@
             "id": 853611682,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-29T03:00:52Z",
+            "last_commit": "2026-08-29T06:54:43Z",
             "open_issues": 1,
             "owner": "g-plane",
             "repo": "wasm-language-tools",
@@ -3995,7 +3277,7 @@
             "open_issues": 258,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37679,
+            "stars": 37688,
             "topics": [
               "containers",
               "devsecops",
@@ -4028,8 +3310,8 @@
             "id": 11061773,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T21:03:26Z",
-            "open_issues": 141,
+            "last_commit": "2026-08-29T12:12:50Z",
+            "open_issues": 135,
             "owner": "eslint",
             "repo": "eslint",
             "stars": 27488,
@@ -4055,11 +3337,11 @@
             "id": 599431918,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-28T20:27:01Z",
-            "open_issues": 810,
+            "last_commit": "2026-08-29T13:12:43Z",
+            "open_issues": 811,
             "owner": "oxc-project",
             "repo": "oxc",
-            "stars": 22542,
+            "stars": 22547,
             "topics": [
               "compiler",
               "javascript",
@@ -4118,8 +3400,8 @@
             "id": 143040428,
             "language": "CodeQL",
             "license": "MIT",
-            "last_commit": "2026-08-28T17:24:03Z",
-            "open_issues": 1464,
+            "last_commit": "2026-08-29T07:11:16Z",
+            "open_issues": 1465,
             "owner": "github",
             "repo": "codeql",
             "stars": 10023,
@@ -4214,7 +3496,7 @@
             "id": 1150877418,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T22:13:23Z",
+            "last_commit": "2026-08-29T09:55:05Z",
             "open_issues": 9,
             "owner": "Ataraxy-Labs",
             "repo": "sem",
@@ -4246,7 +3528,7 @@
             "id": 23050110,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-08-29T01:54:49Z",
+            "last_commit": "2026-08-29T12:07:01Z",
             "open_issues": 1,
             "owner": "classgraph",
             "repo": "classgraph",
@@ -4309,7 +3591,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-05-04T04:55:10Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "prontolabs",
             "repo": "pronto",
             "stars": 2670,
@@ -4341,7 +3623,7 @@
             "open_issues": 24,
             "owner": "terryyin",
             "repo": "lizard",
-            "stars": 2471,
+            "stars": 2473,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
@@ -4364,32 +3646,6 @@
             "repo": "pfff",
             "stars": 2437,
             "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TscanCode",
-          "description": "A fast and accurate static analysis solution for C/C++, C#, Lua codes provided by Tencent. Using GPLv3 license.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A static code analyzer for C++, C#, Lua",
-            "homepage": null,
-            "id": 32849372,
-            "language": "C++",
-            "license": "NOASSERTION",
-            "last_commit": "2023-12-25T08:33:11Z",
-            "open_issues": 58,
-            "owner": "Tencent",
-            "repo": "TscanCode",
-            "stars": 2115,
-            "topics": [
-              "cpp",
-              "csharp",
-              "lua",
-              "static-code-analysis"
-            ]
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
         },
@@ -4439,27 +3695,6 @@
         },
         {
           "node_type": "item",
-          "title": "Undebt",
-          "description": "Language-independent tool for massive, automatic, programmable refactoring based on simple pattern definitions.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "A fast, straightforward, reliable tool for performing massive, automated code refactoring",
-            "homepage": null,
-            "id": 64168112,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2021-04-05T13:44:46Z",
-            "open_issues": 1,
-            "owner": "YelpArchive",
-            "repo": "undebt",
-            "stars": 1624,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
           "title": "weave",
           "description": "Entity-level semantic merge driver for git. Resolves false conflicts that line-based merge produces when independent changes touch the same file. Parses functions and classes via tree-sitter, matches by name, and merges at the entity level. Benchmarked at 100% clean merges vs git's 48% on a 31-scenario suite.",
           "children": [],
@@ -4470,11 +3705,11 @@
             "id": 1151647782,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T22:22:40Z",
+            "last_commit": "2026-08-29T09:56:18Z",
             "open_issues": 11,
             "owner": "Ataraxy-Labs",
             "repo": "weave",
-            "stars": 1261,
+            "stars": 1262,
             "topics": [
               "ai-agents",
               "code-intelligence",
@@ -4729,37 +3964,6 @@
         },
         {
           "node_type": "item",
-          "title": "Wotan",
-          "description": "Pluggable TypeScript and JavaScript linter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Pluggable TypeScript and JavaScript linter",
-            "homepage": null,
-            "id": 111957557,
-            "language": "TypeScript",
-            "license": "Apache-2.0",
-            "last_commit": "2023-06-19T01:18:35Z",
-            "open_issues": 162,
-            "owner": "fimbullinter",
-            "repo": "wotan",
-            "stars": 281,
-            "topics": [
-              "best-practices",
-              "code-analysis",
-              "code-quality",
-              "ecmascript",
-              "extensible",
-              "javascript",
-              "linter",
-              "static-analysis",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
           "title": "Depends",
           "description": "Analyses the comprehensive dependencies of code elements for Java, C/C++, Ruby.",
           "children": [],
@@ -4833,7 +4037,7 @@
             "id": 1160981919,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T02:45:27Z",
+            "last_commit": "2026-08-29T06:52:30Z",
             "open_issues": 3,
             "owner": "RoloBits",
             "repo": "nestjs-doctor",
@@ -5075,27 +4279,6 @@
         },
         {
           "node_type": "item",
-          "title": "pure",
-          "description": "Pure is a static analysis file format checker that checks ZIP files for dangerous compression ratios, spec deviations, malicious archive signatures, mismatching local and central directory headers, ambiguous UTF-8 filenames, directory and symlink traversals, invalid MS-DOS dates, overlapping headers, overflow, underflow, sparseness, accidental buffer bleeds etc.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A static analysis file format checker.",
-            "homepage": null,
-            "id": 277836685,
-            "language": "C",
-            "license": "MIT",
-            "last_commit": "2020-07-07T15:00:25Z",
-            "open_issues": 0,
-            "owner": "ronomon",
-            "repo": "pure",
-            "stars": 268,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
           "title": "angr",
           "description": "Binary code analysis tool that also supports symbolic execution.",
           "children": [],
@@ -5106,11 +4289,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-08-29T04:11:12Z",
-            "open_issues": 712,
+            "last_commit": "2026-08-29T13:44:38Z",
+            "open_issues": 717,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9042,
+            "stars": 9043,
             "topics": [
               "analysis",
               "angr",
@@ -5136,7 +4319,7 @@
             "open_issues": 71,
             "owner": "google",
             "repo": "bloaty",
-            "stars": 5538,
+            "stars": 5539,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
@@ -5210,7 +4393,7 @@
             "id": 40815641,
             "language": "YARA",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T12:31:08Z",
+            "last_commit": "2026-08-29T08:22:25Z",
             "open_issues": 6,
             "owner": "JusticeRage",
             "repo": "Manalyze",
@@ -5287,7 +4470,7 @@
             "id": 159678706,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-28T18:51:51Z",
+            "last_commit": "2026-08-29T10:32:33Z",
             "open_issues": 2,
             "owner": "horsicq",
             "repo": "Nauz-File-Detector",
@@ -5302,27 +4485,6 @@
               "reverse-engineering",
               "signature"
             ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "VMware chap",
-          "description": "chap analyzes un-instrumented ELF core files for leaks, memory growth, and corruption. It is sufficiently reliable that it can be used in automation to catch leaks before they are committed. As an interactive tool, it helps explain memory growth, can identify some forms of corruption, and supplements a debugger by giving the status of various memory locations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "chap analyzes un-instrumented core files for leaks, memory growth, and corruption",
-            "homepage": null,
-            "id": 86946762,
-            "language": "C++",
-            "license": "NOASSERTION",
-            "last_commit": "2025-06-01T14:55:55Z",
-            "open_issues": 8,
-            "owner": "vmware",
-            "repo": "chap",
-            "stars": 392,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
         },
@@ -5350,27 +4512,6 @@
               "make",
               "makefile"
             ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Specificity Graph",
-          "description": "CSS Specificity Graph Generator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Generate interactive Specificity Graphs for your CSS",
-            "homepage": "https://jonassebastianohlsson.com/specificity-graph/",
-            "id": 26367122,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2016-04-16T07:22:03Z",
-            "open_issues": 3,
-            "owner": "pocketjoso",
-            "repo": "specificity-graph",
-            "stars": 702,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
         },
@@ -5427,7 +4568,7 @@
             "id": 129005655,
             "language": "Python",
             "license": "MIT-0",
-            "last_commit": "2026-08-28T23:07:16Z",
+            "last_commit": "2026-08-29T09:09:44Z",
             "open_issues": 80,
             "owner": "aws-cloudformation",
             "repo": "cfn-lint",
@@ -5470,27 +4611,6 @@
               "security",
               "terraform"
             ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Puppet Lint",
-          "description": "Check that your Puppet manifests conform to the style guide.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Check that your Puppet manifests conform to the style guide",
-            "homepage": null,
-            "id": 2211397,
-            "language": "Ruby",
-            "license": "MIT",
-            "last_commit": "2023-08-29T13:24:08Z",
-            "open_issues": 59,
-            "owner": "rodjek",
-            "repo": "puppet-lint",
-            "stars": 829,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
         },
@@ -5575,7 +4695,7 @@
             "open_issues": 402,
             "owner": "anchore",
             "repo": "grype",
-            "stars": 12799,
+            "stars": 12801,
             "topics": [
               "container-image",
               "containers",
@@ -5612,7 +4732,7 @@
             "open_issues": 203,
             "owner": "hadolint",
             "repo": "hadolint",
-            "stars": 12378,
+            "stars": 12379,
             "topics": [
               "docker",
               "dockerfile",
@@ -5806,7 +4926,7 @@
             "open_issues": 59,
             "owner": "refactorfirst",
             "repo": "RefactorFirst",
-            "stars": 542,
+            "stars": 543,
             "topics": [
               "cycle-analysis",
               "cycle-detection",
@@ -5860,27 +4980,6 @@
               "stylecop",
               "swiftlint"
             ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "quality",
-          "description": "Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Quality is a tool that runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.  Just add 'rake quality' as part of your Continuous Integration.",
-            "homepage": null,
-            "id": 12030578,
-            "language": "Ruby",
-            "license": "MIT",
-            "last_commit": "2023-11-02T21:26:44Z",
-            "open_issues": 29,
-            "owner": "apiology",
-            "repo": "quality",
-            "stars": 156,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
         },
@@ -6294,11 +5393,11 @@
             "id": 139191005,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-28T06:43:05Z",
-            "open_issues": 122,
+            "last_commit": "2026-08-29T12:02:34Z",
+            "open_issues": 120,
             "owner": "larastan",
             "repo": "larastan",
-            "stars": 6494,
+            "stars": 6495,
             "topics": [
               "code-analysis",
               "laravel",
@@ -6348,7 +5447,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-28T02:18:04Z",
-            "open_issues": 82,
+            "open_issues": 83,
             "owner": "DavidAnson",
             "repo": "markdownlint",
             "stars": 6309,
@@ -6488,27 +5587,6 @@
         },
         {
           "node_type": "item",
-          "title": "qark",
-          "description": "Tool to look for several security related Android application vulnerabilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Tool to look for several security related Android application vulnerabilities",
-            "homepage": null,
-            "id": 38121886,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2024-01-16T08:17:35Z",
-            "open_issues": 79,
-            "owner": "linkedin",
-            "repo": "qark",
-            "stars": 3382,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
           "title": "FlowDroid",
           "description": "Static taint analysis tool for Android applications.",
           "children": [],
@@ -6523,7 +5601,7 @@
             "open_issues": 244,
             "owner": "secure-software-engineering",
             "repo": "FlowDroid",
-            "stars": 1259,
+            "stars": 1260,
             "topics": [
               "data-flow-tracker",
               "flowdroid",
@@ -6694,27 +5772,6 @@
         },
         {
           "node_type": "item",
-          "title": "promval",
-          "description": "PromQL validator written in Python. It can be used to validate that PromQL expressions are written as expected.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "PromQL validator written in Python",
-            "homepage": null,
-            "id": 450832514,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2023-06-13T01:38:07Z",
-            "open_issues": 1,
-            "owner": "facetoe",
-            "repo": "promval",
-            "stars": 4,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
           "title": "protolint",
           "description": "Pluggable linter and fixer to enforce Protocol Buffer style and conventions.",
           "children": [],
@@ -6780,8 +5837,8 @@
             "id": 277089,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-08-28T00:02:38Z",
-            "open_issues": 8,
+            "last_commit": "2026-08-29T08:01:18Z",
+            "open_issues": 7,
             "owner": "flyerhzm",
             "repo": "bullet",
             "stars": 7336,
@@ -6849,27 +5906,6 @@
         },
         {
           "node_type": "item",
-          "title": "Traceroute",
-          "description": "A Rake task gem that helps you find the unused routes and controller actions for your Rails 3+ app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Rake task gem that helps you find the unused routes and controller actions for your Rails 3+ app",
-            "homepage": null,
-            "id": 1707744,
-            "language": "Ruby",
-            "license": "MIT",
-            "last_commit": "2025-04-29T09:06:34Z",
-            "open_issues": 16,
-            "owner": "amatsuda",
-            "repo": "traceroute",
-            "stars": 904,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
           "title": "Skunk",
           "description": "A SkunkScore Calculator for Ruby Code -- Find the most complicated code without test coverage!",
           "children": [],
@@ -6909,10 +5945,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-26T04:17:05Z",
-            "open_issues": 467,
+            "open_issues": 470,
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 29001,
+            "stars": 29006,
             "topics": [
               "ai-powered",
               "ci-cd",
@@ -6954,7 +5990,7 @@
             "open_issues": 402,
             "owner": "anchore",
             "repo": "grype",
-            "stars": 12799,
+            "stars": 12801,
             "topics": [
               "container-image",
               "containers",
@@ -7012,7 +6048,7 @@
             "open_issues": 477,
             "owner": "model-checking",
             "repo": "kani",
-            "stars": 3353,
+            "stars": 3354,
             "topics": [
               "model-checking",
               "rust",
@@ -7069,7 +6105,7 @@
             "open_issues": 13,
             "owner": "google",
             "repo": "tsunami-security-scanner",
-            "stars": 8609,
+            "stars": 8610,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
@@ -7128,35 +6164,14 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-24T08:24:59Z",
-            "open_issues": 457,
+            "open_issues": 460,
             "owner": "ossf",
             "repo": "scorecard",
-            "stars": 5658,
+            "stars": 5659,
             "topics": [
               "openssf-scorecard",
               "scorecard"
             ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "weggli",
-          "description": "A fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "weggli is a fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.",
-            "homepage": null,
-            "id": 412132838,
-            "language": "Rust",
-            "license": "Apache-2.0",
-            "last_commit": "2024-07-12T16:50:14Z",
-            "open_issues": 47,
-            "owner": "weggli-rs",
-            "repo": "weggli",
-            "stars": 2492,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
         },
@@ -7259,7 +6274,7 @@
             "open_issues": 59,
             "owner": "refactorfirst",
             "repo": "RefactorFirst",
-            "stars": 542,
+            "stars": 543,
             "topics": [
               "cycle-analysis",
               "cycle-detection",
@@ -7360,36 +6375,6 @@
         },
         {
           "node_type": "item",
-          "title": "shisho",
-          "description": "A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Lightweight static analyzer for several programming languages",
-            "homepage": "https://docs.shisho.dev",
-            "id": 390314995,
-            "language": "Rust",
-            "license": "AGPL-3.0",
-            "last_commit": "2023-08-07T06:55:18Z",
-            "open_issues": 38,
-            "owner": "flatt-security",
-            "repo": "shisho",
-            "stars": 385,
-            "topics": [
-              "code-analysis",
-              "devsecops",
-              "go",
-              "rust",
-              "security",
-              "static-analysis",
-              "terraform",
-              "terraform-security"
-            ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
           "title": "dennis",
           "description": "A set of utilities for working with PO files to ease development and improve quality.",
           "children": [],
@@ -7405,27 +6390,6 @@
             "owner": "mozilla",
             "repo": "dennis",
             "stars": 51,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "write-good",
-          "description": "A linter with a focus on eliminating \"weasel words\".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Naive linter for English prose",
-            "homepage": null,
-            "id": 19128505,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2025-03-10T04:04:12Z",
-            "open_issues": 24,
-            "owner": "btford",
-            "repo": "write-good",
-            "stars": 5086,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
@@ -7475,7 +6439,7 @@
             "open_issues": 266,
             "owner": "codespell-project",
             "repo": "codespell",
-            "stars": 2419,
+            "stars": 2418,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
@@ -7532,10 +6496,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-24T19:54:49Z",
-            "open_issues": 571,
+            "open_issues": 572,
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6870,
+            "stars": 6871,
             "topics": [
               "linter",
               "linters",
@@ -7600,7 +6564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:12:15.607Z",
+    "last_updated": "2026-08-29T13:53:56.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.",
@@ -7608,7 +6572,7 @@
       "id": 48246447,
       "language": "Rust",
       "license": "MIT",
-      "last_commit": "2026-08-28T16:40:37Z",
+      "last_commit": "2026-08-29T11:56:02Z",
       "open_issues": 11,
       "owner": "analysis-tools-dev",
       "repo": "static-analysis",
@@ -7625,7 +6589,7 @@
         "static-code-analysis"
       ]
     },
-    "original_repository_sha": "b46ec6390267db5e5588653d2dd9776831146565",
+    "original_repository_sha": "e17e2d275264fe874d085a4b63c68d07fe6fe0de",
     "enhanced_repository": "enhansome/enhansome-static-analysis",
     "enhanced_repository_description": null,
     "title": "Awesome static analysis with stars"
