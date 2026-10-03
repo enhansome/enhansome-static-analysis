@@ -125,7 +125,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 <h2>C</h2>
 
-* [cpplint](https://github.com/cpplint/cpplint) ⭐ 1,855 | 🐛 86 | 🌐 Python | 📅 2026-09-07 — Automated C++ checker that follows Google's style guide.
+* [cpplint](https://github.com/cpplint/cpplint) ⭐ 1,856 | 🐛 86 | 🌐 Python | 📅 2026-09-07 — Automated C++ checker that follows Google's style guide.
 
 * [clazy](https://github.com/KDE/clazy) ⭐ 747 | 🐛 0 | 🌐 C++ | 📅 2026-09-30 — Qt-oriented static code analyzer based on the Clang framework. clazy is a compiler plugin which allows clang to understand Qt semantics. You get more than 50 Qt related compiler warnings, ranging from unneeded memory allocations to misusage of API, including fix-its for automatic refactoring.
 
@@ -206,9 +206,9 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 * [ArchUnitNET](https://github.com/TNG/ArchUnitNET) ⭐ 1,377 | 🐛 41 | 🌐 C# | 📅 2026-10-01 — A C# architecture test library to specify and assert architecture rules in C# for automated testing.
 
-* [Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer) ⭐ 1,204 | 🐛 0 | 🌐 C# | 📅 2026-10-02 — A Roslyn analyzer to enforce some good practices in C# in terms of design, usage, security, performance, and style.
+* [Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer) ⭐ 1,204 | 🐛 1 | 🌐 C# | 📅 2026-10-02 — A Roslyn analyzer to enforce some good practices in C# in terms of design, usage, security, performance, and style.
 
-* [SonarAnalyzer.CSharp](https://github.com/SonarSource/sonar-dotnet) ⭐ 920 | 🐛 253 | 🌐 C# | 📅 2026-10-03 — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
+* [SonarAnalyzer.CSharp](https://github.com/SonarSource/sonar-dotnet) ⭐ 920 | 🐛 255 | 🌐 C# | 📅 2026-10-03 — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
 * [.NET Analyzers](https://github.com/DotNetAnalyzers) — An organization for the development of analyzers (diagnostics and code fixes) using the .NET Compiler Platform.
 
@@ -239,7 +239,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 <h2>C++</h2>
 
-* [cpplint](https://github.com/cpplint/cpplint) ⭐ 1,855 | 🐛 86 | 🌐 Python | 📅 2026-09-07 — Automated C++ checker that follows Google's style guide.
+* [cpplint](https://github.com/cpplint/cpplint) ⭐ 1,856 | 🐛 86 | 🌐 Python | 📅 2026-09-07 — Automated C++ checker that follows Google's style guide.
 
 * [clazy](https://github.com/KDE/clazy) ⭐ 747 | 🐛 0 | 🌐 C++ | 📅 2026-09-30 — Qt-oriented static code analyzer based on the Clang framework. clazy is a compiler plugin which allows clang to understand Qt semantics. You get more than 50 Qt related compiler warnings, ranging from unneeded memory allocations to misusage of API, including fix-its for automatic refactoring.
 
@@ -448,7 +448,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 <h2>Go</h2>
 
-* [Reviewdog](https://github.com/haya14busa/reviewdog) ⭐ 9,637 | 🐛 134 | 🌐 Go | 📅 2026-10-02 — A tool for posting review comments from any linter in any code hosting service.
+* [Reviewdog](https://github.com/haya14busa/reviewdog) ⭐ 9,638 | 🐛 134 | 🌐 Go | 📅 2026-10-02 — A tool for posting review comments from any linter in any code hosting service.
 
 * [gofumpt](https://github.com/mvdan/gofumpt) ⭐ 4,095 | 🐛 13 | 🌐 Go | 📅 2026-09-23 — Enforce a stricter format than `gofmt`, while being backwards-compatible.  That is, `gofumpt` is happy with a subset of the formats that `gofmt` is happy with.
   The tool is a fork of `gofmt` as of Go 1.19, and requires Go 1.18 or later.  It can be used as a drop-in replacement to format your Go code, and running gofmt  after gofumpt should produce no changes.
@@ -458,7 +458,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 * [go-critic](https://github.com/go-critic/go-critic) ⭐ 2,074 | 🐛 154 | 🌐 Go | 📅 2026-09-20 — Go source code linter that maintains checks which are currently not implemented in other linters.
 
-* [gocyclo](https://github.com/fzipp/gocyclo) ⭐ 1,610 | 🐛 11 | 🌐 Go | 📅 2025-12-27 — Calculate cyclomatic complexities of functions in Go source code.
+* [gocyclo](https://github.com/fzipp/gocyclo) ⭐ 1,612 | 🐛 11 | 🌐 Go | 📅 2025-12-27 — Calculate cyclomatic complexities of functions in Go source code.
 
 * [prealloc](https://github.com/alexkohler/prealloc) ⭐ 665 | 🐛 3 | 🌐 Go | 📅 2026-02-26 — Finds slice declarations that could potentially be preallocated.
 
@@ -468,7 +468,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 * [dupl](https://github.com/mibk/dupl) ⭐ 369 | 🐛 6 | 🌐 Go | 📅 2026-03-05 — Reports potentially duplicated code.
 
-* [wsl](https://github.com/bombsimon/wsl) ⭐ 363 | 🐛 5 | 🌐 Go | 📅 2026-10-02 — Enforces empty lines at the right places.
+* [wsl](https://github.com/bombsimon/wsl) ⭐ 363 | 🐛 4 | 🌐 Go | 📅 2026-10-03 — Enforces empty lines at the right places.
 
 * [bodyclose](https://github.com/timakin/bodyclose) ⭐ 323 | 🐛 30 | 🌐 Go | 📅 2026-09-23 — Checks whether HTTP response body is closed.
 
@@ -593,9 +593,9 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 <h2>Java</h2>
 
-* [google-java-format](https://github.com/google/google-java-format) ⭐ 6,203 | 🐛 169 | 🌐 Java | 📅 2026-10-01 — Reformats Java source code to comply with Google Java Style
+* [google-java-format](https://github.com/google/google-java-format) ⭐ 6,203 | 🐛 171 | 🌐 Java | 📅 2026-10-01 — Reformats Java source code to comply with Google Java Style
 
-* [NullAway](https://github.com/uber/NullAway) ⭐ 4,112 | 🐛 155 | 🌐 Java | 📅 2026-10-02 — Type-based null-pointer checker with low build-time overhead; an [Error Prone](http://errorprone.info/) plugin.
+* [NullAway](https://github.com/uber/NullAway) ⭐ 4,113 | 🐛 158 | 🌐 Java | 📅 2026-10-02 — Type-based null-pointer checker with low build-time overhead; an [Error Prone](http://errorprone.info/) plugin.
 
 * [Dataflow Framework](https://github.com/typetools/checker-framework) ⭐ 1,150 | 🐛 396 | 🌐 Java | 📅 2026-10-02 — An industrial-strength dataflow framework for Java. The Dataflow Framework is used in the Checker Framework, Google’s Error Prone, Uber’s NullAway, Meta’s Nullsafe, and in other contexts. It is distributed with the Checker Framework.
 
@@ -718,7 +718,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 <h2>Julia</h2>
 
-* [JET](https://github.com/aviatesk/JET.jl) ⭐ 884 | 🐛 81 | 🌐 Julia | 📅 2026-10-01 — Static type inference system to detect bugs and type instabilities.
+* [JET](https://github.com/aviatesk/JET.jl) ⭐ 884 | 🐛 81 | 🌐 Julia | 📅 2026-10-03 — Static type inference system to detect bugs and type instabilities.
 
 * [StaticLint](https://github.com/julia-vscode/StaticLint.jl) ⚠️ Archived — Static Code Analysis for Julia
 
@@ -811,7 +811,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 * [PHP-Parser](https://github.com/nikic/PHP-Parser) ⭐ 17,469 | 🐛 76 | 🌐 PHP | 📅 2026-09-30 — A PHP parser written in PHP.
 
-* [EasyCodingStandard](https://www.tomasvotruba.com/blog/2017/05/03/combine-power-of-php-code-sniffer-and-php-cs-fixer-in-3-lines) — Combine [PHP\_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) ⭐ 10,771 | 🐛 248 | 🌐 PHP | 📅 2024-04-01 and [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,557 | 🐛 96 | 🌐 PHP | 📅 2026-10-02.
+* [EasyCodingStandard](https://www.tomasvotruba.com/blog/2017/05/03/combine-power-of-php-code-sniffer-and-php-cs-fixer-in-3-lines) — Combine [PHP\_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) ⭐ 10,771 | 🐛 248 | 🌐 PHP | 📅 2024-04-01 and [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,559 | 🐛 94 | 🌐 PHP | 📅 2026-10-03.
 
 * [larastan](https://github.com/larastan/larastan) ⭐ 6,531 | 🐛 95 | 🌐 PHP | 📅 2026-10-02 — Adds static analysis to Laravel improving developer productivity and code quality. It is a wrapper around PHPStan.
 
@@ -819,7 +819,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 * [phan](https://github.com/phan/phan/wiki) ⭐ 5,625 | 🐛 795 | 🌐 PHP | 📅 2026-09-15 — A modern static analyzer from etsy.
 
-* [GrumPHP](https://github.com/phpro/grumphp) ⭐ 4,316 | 🐛 7 | 🌐 PHP | 📅 2026-10-02 — Checks code on every commit.
+* [GrumPHP](https://github.com/phpro/grumphp) ⭐ 4,316 | 🐛 6 | 🌐 PHP | 📅 2026-10-03 — Checks code on every commit.
 
 * [deptrac](https://github.com/sensiolabs-de/deptrac) ⭐ 3,027 | 🐛 35 | 🌐 PHP | 📅 2026-09-20 — Enforce rules for dependencies between software layers.
 
@@ -829,7 +829,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 * [PHPArkitect](https://github.com/phparkitect/arkitect) ⭐ 933 | 🐛 37 | 🌐 PHP | 📅 2026-09-29 — PHPArkitect helps you to keep your PHP codebase coherent and solid, by permitting to add some architectural constraint check to your workflow. You can express the constraint that you want to enforce, in simple and readable PHP code.
 
-* [phpmnd](https://github.com/povils/phpmnd) ⭐ 586 | 🐛 21 | 🌐 PHP | 📅 2026-02-25 — Helps to detect magic numbers.
+* [phpmnd](https://github.com/povils/phpmnd) ⭐ 586 | 🐛 22 | 🌐 PHP | 📅 2026-10-03 — Helps to detect magic numbers.
 
 * [dephpend](https://github.com/mihaeu/dephpend) ⭐ 533 | 🐛 5 | 🌐 PHP | 📅 2026-01-28 — Dependency analysis tool.
 
@@ -955,7 +955,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 <h2>Python</h2>
 
-* [pyright](https://github.com/Microsoft/pyright) ⭐ 15,671 | 🐛 331 | 🌐 Python | 📅 2026-10-02 — Static type checker for Python, created to address gaps in existing tools like mypy.
+* [pyright](https://github.com/Microsoft/pyright) ⭐ 15,670 | 🐛 335 | 🌐 Python | 📅 2026-10-02 — Static type checker for Python, created to address gaps in existing tools like mypy.
 
 * [mypy](http://www.mypy-lang.org) — A static type checker that aims to combine the benefits of duck typing and static typing, frequently used with [MonkeyType](https://github.com/Instagram/MonkeyType) ⭐ 5,005 | 🐛 78 | 🌐 Python | 📅 2026-02-11.
 
@@ -1078,7 +1078,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 * [R Language Server](https://github.com/REditorSupport/languageserver/) ⭐ 677 | 🐛 124 | 🌐 R | 📅 2026-10-03 — Provides code completion, refactoring, folding, diagnostics (with lintr), and more for R.
 
-* [flowR](https://github.com/flowr-analysis/flowr) ⭐ 104 | 🐛 257 | 🌐 TypeScript | 📅 2026-10-03 — A [program slicer](https://github.com/flowr-analysis/flowr/wiki/Terminology#program-slice) ⭐ 104 | 🐛 257 | 🌐 TypeScript | 📅 2026-10-03 and [dataflow analyzer](https://en.wikipedia.org/wiki/Data-flow_analysis) for the [R](https://www.r-project.org/) programming language. Its slicer allows you to reduce a complicated program just to the parts related for a specific task (e.g., the generation of a single or collection of plots, a significance test, ...). The dataflow analysis provides you with a detailed view on the semantics of the R code which can greatly improve other analyses. To use *flowR*, check out the [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=code-inspect.vscode-flowr), the [RStudio Addin](https://github.com/flowr-analysis/rstudio-addin-flowr) ⭐ 6 | 🐛 17 | 🌐 R | 📅 2026-07-10, the [Docker image](https://hub.docker.com/r/eagleoutice/flowr), or the [R package](https://github.com/flowr-analysis/flowr-r-adapter) ⭐ 4 | 🐛 10 | 🌐 R | 📅 2026-08-28.
+* [flowR](https://github.com/flowr-analysis/flowr) ⭐ 104 | 🐛 254 | 🌐 TypeScript | 📅 2026-10-03 — A [program slicer](https://github.com/flowr-analysis/flowr/wiki/Terminology#program-slice) ⭐ 104 | 🐛 254 | 🌐 TypeScript | 📅 2026-10-03 and [dataflow analyzer](https://en.wikipedia.org/wiki/Data-flow_analysis) for the [R](https://www.r-project.org/) programming language. Its slicer allows you to reduce a complicated program just to the parts related for a specific task (e.g., the generation of a single or collection of plots, a significance test, ...). The dataflow analysis provides you with a detailed view on the semantics of the R code which can greatly improve other analyses. To use *flowR*, check out the [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=code-inspect.vscode-flowr), the [RStudio Addin](https://github.com/flowr-analysis/rstudio-addin-flowr) ⭐ 6 | 🐛 17 | 🌐 R | 📅 2026-07-10, the [Docker image](https://hub.docker.com/r/eagleoutice/flowr), or the [R package](https://github.com/flowr-analysis/flowr-r-adapter) ⭐ 4 | 🐛 10 | 🌐 R | 📅 2026-08-28.
 
 * [CodeDepends](https://github.com/duncantl/CodeDepends) ⭐ 93 | 🐛 24 | 🌐 R | 📅 2025-12-19 — Static Code Analysis for R.
 
@@ -1099,7 +1099,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 <h2>Rego</h2>
 
-* [Regal](https://github.com/styrainc/regal) ⭐ 409 | 🐛 138 | 🌐 Go | 📅 2026-10-01 — Regal is a linter for the policy language Rego. Regal aims to catch bugs and mistakes in policy code, while at the same time helping people learn the language, best practices and idiomatic constructs.
+* [Regal](https://github.com/styrainc/regal) ⭐ 410 | 🐛 140 | 🌐 Go | 📅 2026-10-01 — Regal is a linter for the policy language Rego. Regal aims to catch bugs and mistakes in policy code, while at the same time helping people learn the language, best practices and idiomatic constructs.
 
 <a id="ruby"></a>
 
@@ -1186,18 +1186,18 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 <h2>Rust</h2>
 
-* [kani](https://github.com/model-checking/kani) ⭐ 3,505 | 🐛 476 | 🌐 Rust | 📅 2026-10-03 — The Kani Rust Verifier is a bit-precise model checker for Rust.
+* [kani](https://github.com/model-checking/kani) ⭐ 3,507 | 🐛 478 | 🌐 Rust | 📅 2026-10-03 — The Kani Rust Verifier is a bit-precise model checker for Rust.
   Kani is particularly useful for verifying unsafe code blocks in Rust,
   where the "unsafe superpowers" are unchecked by the compiler.
   Kani verifies:
 
-* [cargo-expand](https://github.com/dtolnay/cargo-expand) ⭐ 3,130 | 🐛 10 | 🌐 Rust | 📅 2026-09-10 — Cargo subcommand to show result of macro expansion  and #\[derive] expansion applied to the current crate.  This is a wrapper around a more verbose compiler command.
+* [cargo-expand](https://github.com/dtolnay/cargo-expand) ⭐ 3,131 | 🐛 10 | 🌐 Rust | 📅 2026-09-10 — Cargo subcommand to show result of macro expansion  and #\[derive] expansion applied to the current crate.  This is a wrapper around a more verbose compiler command.
 
-* [cargo udeps](https://github.com/est31/cargo-udeps) ⭐ 2,141 | 🐛 44 | 🌐 Rust | 📅 2026-04-29 — Find unused dependencies in Cargo.toml. It either prints out a "unused crates" line listing the crates,  or it prints out a line saying that no crates were unused.
+* [cargo udeps](https://github.com/est31/cargo-udeps) ⭐ 2,142 | 🐛 44 | 🌐 Rust | 📅 2026-04-29 — Find unused dependencies in Cargo.toml. It either prints out a "unused crates" line listing the crates,  or it prints out a line saying that no crates were unused.
 
-* [cargo-geiger](https://github.com/geiger-rs/cargo-geiger) ⭐ 1,653 | 🐛 55 | 🌐 Rust | 📅 2026-09-14 — A cargo plugin for analysing the usage of unsafe Rust code Provides statistical output to aid security auditing
+* [cargo-geiger](https://github.com/geiger-rs/cargo-geiger) ⭐ 1,654 | 🐛 55 | 🌐 Rust | 📅 2026-09-14 — A cargo plugin for analysing the usage of unsafe Rust code Provides statistical output to aid security auditing
 
-* [cargo-audit](https://rustsec.org) — Audit Cargo.lock for crates with security vulnerabilities reported to the [RustSec Advisory Database](https://github.com/RustSec/advisory-db/) ⭐ 1,183 | 🐛 161 | 📅 2026-10-02.
+* [cargo-audit](https://rustsec.org) — Audit Cargo.lock for crates with security vulnerabilities reported to the [RustSec Advisory Database](https://github.com/RustSec/advisory-db/) ⭐ 1,183 | 🐛 159 | 📅 2026-10-03.
 
 * [cargo-show-asm](https://github.com/pacak/cargo-show-asm) ⭐ 982 | 🐛 27 | 🌐 Rust | 📅 2026-09-21 — cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
 
@@ -1220,13 +1220,13 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 - The absence of panics (e.g., unwrap() on None values)
 - The absence of some types of unexpected behavior (e.g., arithmetic overflows)
 
-* [rustfmt](https://github.com/rust-lang/rustfmt) ⭐ 6,978 | 🐛 936 | 🌐 Rust | 📅 2026-10-02 — A tool for formatting Rust code according to style guidelines.
+* [rustfmt](https://github.com/rust-lang/rustfmt) ⭐ 6,979 | 🐛 936 | 🌐 Rust | 📅 2026-10-02 — A tool for formatting Rust code according to style guidelines.
 
 * [RustViz](https://github.com/rustviz/rustviz) ⭐ 2,851 | 🐛 39 | 🌐 Rust | 📅 2026-05-10 — RustViz is a tool that generates visualizations  from simple Rust programs to assist users in better  understanding the Rust Lifetime and Borrowing mechanism. It generates SVG files with graphical indicators that integrate  with mdbook to render visualizations of data-flow in Rust programs.
 
 * [Rudra](https://github.com/sslab-gatech/Rudra) ⚠️ Archived — Rust Memory Safety & Undefined Behavior Detection. It is capable of analyzing single Rust packages as well as all the packages on crates.io.
 
-* [rust-audit](https://github.com/Shnatsel/rust-audit) ⭐ 860 | 🐛 18 | 🌐 Rust | 📅 2026-10-02 — Audit Rust binaries for known bugs or security vulnerabilities. This works by embedding data about the dependency tree (Cargo.lock) in JSON format into a dedicated linker section of the compiled executable.
+* [rust-audit](https://github.com/Shnatsel/rust-audit) ⭐ 862 | 🐛 18 | 🌐 Rust | 📅 2026-10-02 — Audit Rust binaries for known bugs or security vulnerabilities. This works by embedding data about the dependency tree (Cargo.lock) in JSON format into a dedicated linker section of the compiled executable.
 
 * [lockbud](https://github.com/BurtonQin/lockbud) ⭐ 591 | 🐛 33 | 🌐 Rust | 📅 2026-07-21 — Statically detects Rust deadlocks bugs. It currently detects two common kinds of deadlock bugs: doublelock and locks in conflicting order. It will print bugs in JSON format together with the source code location and an explanation of each bug.
 
@@ -1280,7 +1280,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 * [pgspot](https://github.com/timescale/pgspot) ⭐ 149 | 🐛 10 | 🌐 Python | 📅 2026-10-03 — Spot vulnerabilities in postgres extension scripts. Finds unsafe search\_path usage and unsafe object creation in PostgreSQL extension scripts or any other PostgreSQL SQL code.
 
-* [scythe](https://github.com/Goldziher/scythe) ⭐ 71 | 🐛 6 | 🌐 Rust | 📅 2026-10-02 — Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.
+* [scythe](https://github.com/Goldziher/scythe) ⭐ 72 | 🐛 6 | 🌐 Rust | 📅 2026-10-02 — Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.
 
 * [Bytebase](https://www.bytebase.com) — Database DevSecOps platform with a built-in SQL Review engine that lints schema migrations and queries against 100+ configurable rules — naming conventions, anti-patterns, and safety checks — across MySQL, PostgreSQL, Oracle, SQL Server, Snowflake, and more.
 
@@ -1307,7 +1307,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 <h2>Scala</h2>
 
-* [scapegoat](https://github.com/sksamuel/scapegoat) ⭐ 557 | 🐛 49 | 🌐 Scala | 📅 2026-10-01 — Scala compiler plugin for static code analysis.
+* [scapegoat](https://github.com/sksamuel/scapegoat) ⭐ 557 | 🐛 47 | 🌐 Scala | 📅 2026-10-03 — Scala compiler plugin for static code analysis.
 
 * [WartRemover](https://www.wartremover.org) — A flexible Scala code linting tool.
 
@@ -1345,7 +1345,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 <h2>Swift</h2>
 
-* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,929 | 🐛 293 | 🌐 Swift | 📅 2026-10-02 — A library and command-line formatting tool for reformatting Swift code.
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,929 | 🐛 293 | 🌐 Swift | 📅 2026-10-03 — A library and command-line formatting tool for reformatting Swift code.
 
 * [SwiftLint](https://realm.github.io/SwiftLint) — A tool to enforce Swift style and conventions.
 
@@ -1370,9 +1370,9 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 <h2>TypeScript</h2>
 
-* [TypeScript ESLint](https://github.com/typescript-eslint/typescript-eslint) ⭐ 16,409 | 🐛 219 | 🌐 TypeScript | 📅 2026-10-03 — TypeScript language extension for eslint.
+* [TypeScript ESLint](https://github.com/typescript-eslint/typescript-eslint) ⭐ 16,408 | 🐛 220 | 🌐 TypeScript | 📅 2026-10-03 — TypeScript language extension for eslint.
 
-* [Angular ESLint](https://github.com/angular-eslint/angular-eslint#readme) ⭐ 1,786 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-02 — Linter for Angular projects
+* [Angular ESLint](https://github.com/angular-eslint/angular-eslint#readme) ⭐ 1,786 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-03 — Linter for Angular projects
 
 * [TypeScript Call Graph](https://github.com/whyboris/TypeScript-Call-Graph) ⭐ 291 | 🐛 10 | 🌐 JavaScript | 📅 2025-10-26 — CLI to generate an interactive graph of functions and calls from your TypeScript files
 
@@ -1404,7 +1404,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 * [svls](https://github.com/dalance/svls) ⭐ 585 | 🐛 26 | 🌐 Rust | 📅 2026-09-14 — A Language Server Protocol implementation for Verilog and SystemVerilog, including lint capabilities.
 
-* [vscode-verilog-hdl-support](https://github.com/mshr-h/vscode-verilog-hdl-support) ⭐ 388 | 🐛 67 | 🌐 TypeScript | 📅 2026-10-01 — Verilog HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code. Provides syntax highlighting and Linting support from Icarus Verilog, Vivado Logical Simulation, Modelsim and Verilator
+* [vscode-verilog-hdl-support](https://github.com/mshr-h/vscode-verilog-hdl-support) ⭐ 389 | 🐛 67 | 🌐 TypeScript | 📅 2026-10-03 — Verilog HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code. Provides syntax highlighting and Linting support from Icarus Verilog, Vivado Logical Simulation, Modelsim and Verilator
 
 * [Verilator](https://www.veripool.org/verilator) — A tool which converts Verilog to a cycle-accurate behavioral model in C++ or SystemC. Performs lint code-quality checks.
 
@@ -1438,25 +1438,25 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 ## Multiple languages
 
-* [trivy](https://github.com/aquasecurity/trivy) ⭐ 38,203 | 🐛 254 | 🌐 Go | 📅 2026-10-02 — A Simple and Comprehensive Vulnerability Scanner for Containers and other Artifacts, Suitable for CI. Trivy detects vulnerabilities of OS packages (Alpine, RHEL, CentOS, etc.) and application dependencies (Bundler, Composer, npm, yarn, etc.). Checks containers and filesystems.
+* [trivy](https://github.com/aquasecurity/trivy) ⭐ 38,207 | 🐛 254 | 🌐 Go | 📅 2026-10-02 — A Simple and Comprehensive Vulnerability Scanner for Containers and other Artifacts, Suitable for CI. Trivy detects vulnerabilities of OS packages (Alpine, RHEL, CentOS, etc.) and application dependencies (Bundler, Composer, npm, yarn, etc.). Checks containers and filesystems.
 
 * [ESLint](https://github.com/eslint/eslint) ⭐ 27,531 | 🐛 123 | 🌐 JavaScript | 📅 2026-10-02 — An extensible linter for JS, following the ECMAScript standard.
 
-* [oxc](https://github.com/web-infra-dev/oxc) ⭐ 22,934 | 🐛 945 | 🌐 Rust | 📅 2026-10-03 — The Oxidation Compiler is creating a suite of high-performance tools for the JavaScript / TypeScript language re-written in Rust.
+* [oxc](https://github.com/web-infra-dev/oxc) ⭐ 22,935 | 🐛 955 | 🌐 Rust | 📅 2026-10-03 — The Oxidation Compiler is creating a suite of high-performance tools for the JavaScript / TypeScript language re-written in Rust.
 
 * [ale](https://github.com/w0rp/ale) ⭐ 14,019 | 🐛 591 | 🌐 Vim Script | 📅 2026-08-21 — Asynchronous Lint Engine for Vim and NeoVim with support for many languages.
 
-* [codeql](https://github.com/github/codeql) ⭐ 10,158 | 🐛 1,478 | 🌐 CodeQL | 📅 2026-10-02 — Deep code analysis - semantic queries and dataflow for several languages with VSCode plugin support.
+* [codeql](https://github.com/github/codeql) ⭐ 10,160 | 🐛 1,478 | 🌐 CodeQL | 📅 2026-10-02 — Deep code analysis - semantic queries and dataflow for several languages with VSCode plugin support.
 
 * [ThreatMapper](https://github.com/deepfence/ThreatMapper) ⭐ 5,322 | 🐛 144 | 🌐 TypeScript | 📅 2026-06-01 — Vulnerability Scanner and Risk Evaluation for containers, serverless and hosts at runtime. ThreatMapper generates runtime BOMs from dependencies and operating system packages, matches against multiple threat feeds, scans for unprotected secrets, and scores issues based on severity and risk-of-exploit.
 
 * [ApplicationInspector](https://github.com/microsoft/ApplicationInspector) ⭐ 4,393 | 🐛 28 | 🌐 C# | 📅 2026-09-15 — Creates reports of over 400 rule patterns for feature detection (e.g. the use of cryptography or version control in apps).
 
-* [sem](https://github.com/Ataraxy-Labs/sem) ⭐ 3,369 | 🐛 3 | 🌐 Rust | 📅 2026-10-03 — Semantic version control CLI that provides entity-level diffs, blame, and impact analysis on top of git. Uses tree-sitter to parse 26 languages and builds a cross-file dependency graph with structural hashing. Commands include sem diff, sem blame, sem graph, and sem impact for blast-radius analysis of code changes.
+* [sem](https://github.com/Ataraxy-Labs/sem) ⭐ 3,370 | 🐛 3 | 🌐 Rust | 📅 2026-10-03 — Semantic version control CLI that provides entity-level diffs, blame, and impact analysis on top of git. Uses tree-sitter to parse 26 languages and builds a cross-file dependency graph with structural hashing. Commands include sem diff, sem blame, sem graph, and sem impact for blast-radius analysis of code changes.
 
 * [ClassGraph](https://github.com/classgraph/classgraph) ⭐ 3,013 | 🐛 1 | 🌐 Java | 📅 2026-10-03 — A classpath and module path scanner for querying or visualizing class metadata or class relatedness.
 
-* [Bearer](https://github.com/bearer/bearer) ⭐ 2,755 | 🐛 26 | 🌐 Go | 📅 2026-10-02 — Open-Source static code analysis tool to discover,  filter and prioritize security risks and vulnerabilities  leading to sensitive data exposures (PII, PHI, PD).  Highly configurable and easily extensible,  built for security and engineering teams.
+* [Bearer](https://github.com/bearer/bearer) ⭐ 2,756 | 🐛 26 | 🌐 Go | 📅 2026-10-02 — Open-Source static code analysis tool to discover,  filter and prioritize security risks and vulnerabilities  leading to sensitive data exposures (PII, PHI, PD).  Highly configurable and easily extensible,  built for security and engineering teams.
 
 * [Pronto](https://github.com/prontolabs/pronto) ⭐ 2,672 | 🐛 15 | 🌐 Ruby | 📅 2026-08-30 — Quick automated code review of your changes. Supports more than 40 runners for various languages, including Clang, Elixir, JavaScript, PHP, Ruby and more.
 
@@ -1468,17 +1468,17 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 * [Roslyn Analyzers](https://github.com/dotnet/roslyn-analyzers) ⭐ 1,672 | 🐛 1,058 | 📅 2026-10-02 — Roslyn-based implementation of FxCop analyzers.
 
-* [weave](https://github.com/Ataraxy-Labs/weave) ⭐ 1,312 | 🐛 1 | 🌐 Rust | 📅 2026-09-30 — Entity-level semantic merge driver for git. Resolves false conflicts that line-based merge produces when independent changes touch the same file. Parses functions and classes via tree-sitter, matches by name, and merges at the entity level. Benchmarked at 100% clean merges vs git's 48% on a 31-scenario suite.
+* [weave](https://github.com/Ataraxy-Labs/weave) ⭐ 1,313 | 🐛 2 | 🌐 Rust | 📅 2026-10-03 — Entity-level semantic merge driver for git. Resolves false conflicts that line-based merge produces when independent changes touch the same file. Parses functions and classes via tree-sitter, matches by name, and merges at the entity level. Benchmarked at 100% clean merges vs git's 48% on a 31-scenario suite.
 
-* [emerge](https://github.com/glato/emerge) ⭐ 1,159 | 🐛 19 | 🌐 Python | 📅 2026-08-07 — Emerge is a source code and dependency visualizer that can be used to gather insights about source code structure, metrics, dependencies and complexity of software projects. After scanning the source code of a project it provides you an interactive web interface to explore and analyze your project by using graph structures.
+* [emerge](https://github.com/glato/emerge) ⭐ 1,160 | 🐛 19 | 🌐 Python | 📅 2026-08-07 — Emerge is a source code and dependency visualizer that can be used to gather insights about source code structure, metrics, dependencies and complexity of software projects. After scanning the source code of a project it provides you an interactive web interface to explore and analyze your project by using graph structures.
 
 * [DevSkim](https://github.com/microsoft/devskim) ⭐ 1,009 | 🐛 80 | 🌐 C# | 📅 2026-10-02 — Regex-based static analysis tool for Visual Studio, VS Code, and Sublime Text - C/C++, C#, PHP, ASP, Python, Ruby, Java, and others.
 
 * [WALA](https://github.com/wala/WALA) ⭐ 873 | 🐛 154 | 🌐 Java | 📅 2026-09-28 — Static analysis capabilities for Java bytecode and related languages and for JavaScript.
 
-* [Skylos](https://github.com/duriantaco/skylos) ⭐ 841 | 🐛 0 | 🌐 Python | 📅 2026-10-02 — Dead code detection, security scanning, secrets detection, and code quality analysis for Python, TypeScript, and Go. Framework-aware analysis with 98% recall. Includes CI/CD GitHub Action, VS Code extension, and MCP server for AI agent integration.
+* [Skylos](https://github.com/duriantaco/skylos) ⭐ 842 | 🐛 1 | 🌐 Python | 📅 2026-10-03 — Dead code detection, security scanning, secrets detection, and code quality analysis for Python, TypeScript, and Go. Framework-aware analysis with 98% recall. Includes CI/CD GitHub Action, VS Code extension, and MCP server for AI agent integration.
 
-* [Putout](https://github.com/coderaiser/putout) ⭐ 796 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-01 — Pluggable and configurable code transformer with built-in eslint, babel plugins support for js, jsx typescript, flow, markdown, yaml and json.
+* [Putout](https://github.com/coderaiser/putout) ⭐ 796 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-03 — Pluggable and configurable code transformer with built-in eslint, babel plugins support for js, jsx typescript, flow, markdown, yaml and json.
 
 * [sqlvet](https://github.com/houqp/sqlvet) ⭐ 500 | 🐛 9 | 🌐 Go | 📅 2026-07-03 — Performs static analysis on raw SQL queries in your Go code base to surface potential runtime errors. It checks for SQL syntax error, identifies unsafe queries that could potentially lead to SQL injections makes sure column count matches value count in INSERT statements and validates table- and column names.
 
@@ -1492,7 +1492,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 * [Super-Linter](https://github.com/github/super-linter) ⭐ 154 | 🐛 2 | 🌐 Shell | 📅 2026-07-03 — Combination of multiple linters to install as a GitHub Action.
 
-* [diesel-guard](https://github.com/ayarotsky/diesel-guard) ⭐ 120 | 🐛 7 | 🌐 Rust | 📅 2026-09-28 — Linter for dangerous Postgres migration patterns in Diesel and SQLx. Prevents downtime caused by unsafe schema changes.
+* [diesel-guard](https://github.com/ayarotsky/diesel-guard) ⭐ 121 | 🐛 7 | 🌐 Rust | 📅 2026-09-28 — Linter for dangerous Postgres migration patterns in Diesel and SQLx. Prevents downtime caused by unsafe schema changes.
 
 * [relint](https://github.com/codingjoe/relint) ⭐ 65 | 🐛 0 | 🌐 Python | 📅 2026-09-29 — A static file linter that allows you to write custom rules using regular expressions (RegEx).
 
@@ -1834,7 +1834,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 <h2>Binaries</h2>
 
-* [angr](https://github.com/angr/angr) ⭐ 9,123 | 🐛 746 | 🌐 Python | 📅 2026-10-03 — Binary code analysis tool that also supports symbolic execution.
+* [angr](https://github.com/angr/angr) ⭐ 9,123 | 🐛 750 | 🌐 Python | 📅 2026-10-03 — Binary code analysis tool that also supports symbolic execution.
 
 * [bloaty](https://github.com/google/bloaty) ⭐ 5,554 | 🐛 74 | 🌐 C++ | 📅 2026-09-24 — Ever wondered what's making your binary big? Bloaty McBloatface will show you a size profile of the binary so you can understand what's taking up space inside. Bloaty performs a deep analysis of the binary. Using custom ELF, DWARF, and Mach-O parsers,  Bloaty aims to accurately attribute every byte of the binary to the symbol or compileunit that produced it.  It will even disassemble the binary looking for references to anonymous data. F
 
@@ -1844,9 +1844,9 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 * [Manalyze](https://github.com/JusticeRage/Manalyze) ⭐ 1,148 | 🐛 6 | 🌐 YARA | 📅 2026-08-29 — A static analyzer, which checks portable executables for malicious content.
 
-* [BinSkim](https://github.com/Microsoft/binskim) ⭐ 860 | 🐛 147 | 🌐 C# | 📅 2026-10-01 — A binary static analysis tool that provides security and correctness results for Windows portable executables.
+* [rust-audit](https://github.com/Shnatsel/rust-audit) ⭐ 862 | 🐛 18 | 🌐 Rust | 📅 2026-10-02 — Audit Rust binaries for known bugs or security vulnerabilities. This works by embedding data about the dependency tree (Cargo.lock) in JSON format into a dedicated linker section of the compiled executable.
 
-* [rust-audit](https://github.com/Shnatsel/rust-audit) ⭐ 860 | 🐛 18 | 🌐 Rust | 📅 2026-10-02 — Audit Rust binaries for known bugs or security vulnerabilities. This works by embedding data about the dependency tree (Cargo.lock) in JSON format into a dedicated linker section of the compiled executable.
+* [BinSkim](https://github.com/Microsoft/binskim) ⭐ 860 | 🐛 147 | 🌐 C# | 📅 2026-10-01 — A binary static analysis tool that provides security and correctness results for Windows portable executables.
 
 * [Nauz File Detector](https://github.com/horsicq/Nauz-File-Detector) ⭐ 584 | 🐛 2 | 🌐 C++ | 📅 2026-10-02 — Static Linker/Compiler/Tool detector for Windows, Linux and MacOS.
 
@@ -1952,7 +1952,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 * [tfsec](https://github.com/tfsec/tfsec) ⭐ 7,042 | 🐛 18 | 🌐 Go | 📅 2026-03-25 — Terraform static analysis tool that prevents potential security issues by checking cloud misconfigurations at build time and directly integrates with the HCL parser for better results. Checks for violations of AWS, Azure and GCP security best practice recommendations.
 
-* [cfn-lint](https://github.com/awslabs/cfn-python-lint) ⭐ 2,640 | 🐛 81 | 🌐 Python | 📅 2026-10-02 — AWS Labs CloudFormation linter.
+* [cfn-lint](https://github.com/awslabs/cfn-python-lint) ⭐ 2,640 | 🐛 82 | 🌐 Python | 📅 2026-10-02 — AWS Labs CloudFormation linter.
 
 * [AWS CloudFormation Guard](https://github.com/aws-cloudformation/cloudformation-guard) ⭐ 1,389 | 🐛 59 | 🌐 Rust | 📅 2026-09-14 — Check local CloudFormation templates against policy-as-code rules  and generate rules from existing templates.
 
@@ -1991,11 +1991,11 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 <h2>Containers</h2>
 
-* [Grype](https://github.com/anchore/grype) ⭐ 12,965 | 🐛 417 | 🌐 Go | 📅 2026-10-02 — Vulnerability scanner for container images and filesystems. Developed by Anchore, it scans container images, directories, and archives for known vulnerabilities. Supports multiple image formats, SBOM integration, and VEX (Vulnerability Exploitability eXchange) for accurate vulnerability assessment. Works with various vulnerability databases and provides detailed reporting.
+* [Grype](https://github.com/anchore/grype) ⭐ 12,967 | 🐛 417 | 🌐 Go | 📅 2026-10-02 — Vulnerability scanner for container images and filesystems. Developed by Anchore, it scans container images, directories, and archives for known vulnerabilities. Supports multiple image formats, SBOM integration, and VEX (Vulnerability Exploitability eXchange) for accurate vulnerability assessment. Works with various vulnerability databases and provides detailed reporting.
 
-* [Haskell Dockerfile Linter](https://github.com/lukasmartinelli/hadolint) ⭐ 12,449 | 🐛 205 | 🌐 Haskell | 📅 2026-09-25 — A smarter Dockerfile linter that helps you build best practice Docker images.
+* [Haskell Dockerfile Linter](https://github.com/lukasmartinelli/hadolint) ⭐ 12,450 | 🐛 205 | 🌐 Haskell | 📅 2026-09-25 — A smarter Dockerfile linter that helps you build best practice Docker images.
 
-* [clair](https://github.com/coreos/clair) ⭐ 11,068 | 🐛 58 | 🌐 Go | 📅 2026-09-30 — Vulnerability Static Analysis for Containers.
+* [clair](https://github.com/coreos/clair) ⭐ 11,070 | 🐛 58 | 🌐 Go | 📅 2026-09-30 — Vulnerability Static Analysis for Containers.
 
 * [Dockle](https://github.com/goodwithtech/dockle) ⭐ 3,297 | 🐛 53 | 🌐 Go | 📅 2026-08-10 — Container Image Linter for Security helping build the Best-Practice Docker Image. Scans Docker images for security vulnerabilities and CIS Benchmark compliance. Checks for secrets, credential exposure, and security best practices. Provides multiple severity levels (FATAL, WARN, INFO) and supports various output formats for CI/CD integration.
 
@@ -2049,7 +2049,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 - 🍰 Easy-to-use: No config needed for first try
 - ✨ Compatible: PHP >= 7.2
 
-* [Reviewdog](https://github.com/haya14busa/reviewdog) ⭐ 9,637 | 🐛 134 | 🌐 Go | 📅 2026-10-02 — A tool for posting review comments from any linter in any code hosting service.
+* [Reviewdog](https://github.com/haya14busa/reviewdog) ⭐ 9,638 | 🐛 134 | 🌐 Go | 📅 2026-10-02 — A tool for posting review comments from any linter in any code hosting service.
 
 * [RefactorFirst](https://github.com/jimbethancourt/RefactorFirst) ⭐ 549 | 🐛 61 | 🌐 Java | 📅 2026-10-02 — Identifies and prioritizes God Classes and Highly Coupled classes in Java codebases you should refactor first.
 
@@ -2137,7 +2137,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 <h2>HTML</h2>
 
-* [Angular ESLint](https://github.com/angular-eslint/angular-eslint#readme) ⭐ 1,786 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-02 — Linter for Angular projects
+* [Angular ESLint](https://github.com/angular-eslint/angular-eslint#readme) ⭐ 1,786 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-03 — Linter for Angular projects
 
 * [ERB Lint](https://github.com/Shopify/erb-lint) ⭐ 749 | 🐛 98 | 🌐 Ruby | 📅 2026-04-20 — Lint your ERB or HTML files
 
@@ -2276,7 +2276,7 @@ but with the following improvements:
 
 <h2>Markdown</h2>
 
-* [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,364 | 🐛 83 | 🌐 JavaScript | 📅 2026-10-03 — Node.js -based style checker and lint tool for Markdown/CommonMark files.
+* [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,367 | 🐛 83 | 🌐 JavaScript | 📅 2026-10-03 — Node.js -based style checker and lint tool for Markdown/CommonMark files.
 
 * [mdl](https://github.com/mivok/markdownlint) ⭐ 2,083 | 🐛 109 | 🌐 Ruby | 📅 2026-10-01 — A tool to check Markdown files and flag style issues.
 
@@ -2348,7 +2348,7 @@ but with the following improvements:
 
 * [statix](https://github.com/nerdypepper/statix) ⭐ 956 | 🐛 45 | 🌐 Rust | 📅 2026-07-26 — Lints and suggestions for the Nix programming language. "statix check" highlights antipatterns in Nix code. "statix fix" can fix several such occurrences.
 
-* [deadnix](https://github.com/astro/deadnix) ⭐ 787 | 🐛 7 | 🌐 Rust | 📅 2026-09-05 — Scan Nix files for dead code (unused variable bindings)
+* [deadnix](https://github.com/astro/deadnix) ⭐ 787 | 🐛 7 | 🌐 Rust | 📅 2026-10-03 — Scan Nix files for dead code (unused variable bindings)
 
 <a id="nodejs"></a>
 
@@ -2401,7 +2401,7 @@ but with the following improvements:
 
 <h2>Protocol Buffers</h2>
 
-* [protolint](https://github.com/yoheimuta/protolint) ⭐ 694 | 🐛 44 | 🌐 Go | 📅 2026-10-03 — Pluggable linter and fixer to enforce Protocol Buffer style and conventions.
+* [protolint](https://github.com/yoheimuta/protolint) ⭐ 694 | 🐛 46 | 🌐 Go | 📅 2026-10-03 — Pluggable linter and fixer to enforce Protocol Buffer style and conventions.
 
 * [buf](https://buf.build) — Provides a CLI linter that enforces good API design choices and structure
 
@@ -2438,14 +2438,14 @@ but with the following improvements:
 
 <h2>Security/SAST</h2>
 
-* [Gitleaks](https://github.com/zricethezav/gitleaks) ⭐ 29,625 | 🐛 489 | 🌐 Go | 📅 2026-09-30 — A SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repos.
+* [Gitleaks](https://github.com/zricethezav/gitleaks) ⭐ 29,631 | 🐛 489 | 🌐 Go | 📅 2026-09-30 — A SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repos.
 
-* [Grype](https://github.com/anchore/grype) ⭐ 12,965 | 🐛 417 | 🌐 Go | 📅 2026-10-02 — Vulnerability scanner for container images and filesystems. Developed by Anchore, it scans container images, directories, and archives for known vulnerabilities. Supports multiple image formats, SBOM integration, and VEX (Vulnerability Exploitability eXchange) for accurate vulnerability assessment. Works with various vulnerability databases and provides detailed reporting.
+* [Grype](https://github.com/anchore/grype) ⭐ 12,967 | 🐛 417 | 🌐 Go | 📅 2026-10-02 — Vulnerability scanner for container images and filesystems. Developed by Anchore, it scans container images, directories, and archives for known vulnerabilities. Supports multiple image formats, SBOM integration, and VEX (Vulnerability Exploitability eXchange) for accurate vulnerability assessment. Works with various vulnerability databases and provides detailed reporting.
 
 * [detect-secrets](https://github.com/Yelp/detect-secrets) ⭐ 4,648 | 🐛 184 | 🌐 Python | 📅 2026-04-02 — An enterprise friendly way of detecting and preventing secrets in code.
   It does this by running periodic diff outputs against heuristically crafted regex statements,  to identify whether any new secret has been committed. This way, it avoids the overhead of digging  through all git history, as well as the need to scan the entire repository every time.
 
-* [kani](https://github.com/model-checking/kani) ⭐ 3,505 | 🐛 476 | 🌐 Rust | 📅 2026-10-03 — The Kani Rust Verifier is a bit-precise model checker for Rust.
+* [kani](https://github.com/model-checking/kani) ⭐ 3,507 | 🐛 478 | 🌐 Rust | 📅 2026-10-03 — The Kani Rust Verifier is a bit-precise model checker for Rust.
   Kani is particularly useful for verifying unsafe code blocks in Rust,
   where the "unsafe superpowers" are unchecked by the compiler.
   Kani verifies:
@@ -2632,7 +2632,7 @@ but with the following improvements:
 
 * [proselint](https://github.com/amperser/proselint) ⭐ 4,581 | 🐛 236 | 🌐 JavaScript | 📅 2026-09-04 — A linter for English prose with a focus on writing style instead of grammar.
 
-* [codespell](https://github.com/codespell-project/codespell) ⭐ 2,431 | 🐛 269 | 🌐 Python | 📅 2026-09-28 — Check code for common misspellings.
+* [codespell](https://github.com/codespell-project/codespell) ⭐ 2,431 | 🐛 269 | 🌐 Python | 📅 2026-10-03 — Check code for common misspellings.
 
 * [languagetool](https://languagetool.org) — Style and grammar checker for 25+ languages. It finds many errors that a simple spell checker cannot detect.
 
@@ -2685,7 +2685,7 @@ but with the following improvements:
 
 ## More collections
 
-* [go-tools](https://github.com/dominikh/go-tools) ⭐ 6,902 | 🐛 652 | 🌐 Go | 📅 2026-08-24 — A collection of tools and libraries for working with Go code, including linters and static analysis
+* [go-tools](https://github.com/dominikh/go-tools) ⭐ 6,903 | 🐛 652 | 🌐 Go | 📅 2026-08-24 — A collection of tools and libraries for working with Go code, including linters and static analysis
 * [php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) ⭐ 2,878 | 🐛 2 | 📅 2026-05-07 — A reviewed list of useful PHP static analysis tools
 * [linters](https://github.com/mcandre/linters) ⭐ 351 | 🐛 59 | 📅 2026-03-17 — An introduction to static code analysis
 * [AppSec Santa — SAST Tools](https://appsecsanta.com/sast-tools) — Independent comparison of 30+ static analysis security testing tools with features, pricing, and alternatives
