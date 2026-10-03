@@ -89,7 +89,7 @@
             "language": "C#",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T00:54:04Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "TNG",
             "repo": "ArchUnitNET",
             "stars": 1377,
@@ -109,8 +109,8 @@
             "id": 161542279,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-01T14:57:30Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-02T17:45:57Z",
+            "open_issues": 0,
             "owner": "meziantou",
             "repo": "Meziantou.Analyzer",
             "stars": 1204,
@@ -138,7 +138,7 @@
             "id": 5582516,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T00:55:55Z",
+            "last_commit": "2026-10-03T00:52:49Z",
             "open_issues": 253,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
@@ -353,11 +353,11 @@
             "id": 43247111,
             "language": "Elixir",
             "license": "MIT",
-            "last_commit": "2026-10-01T19:25:51Z",
+            "last_commit": "2026-10-02T19:53:12Z",
             "open_issues": 36,
             "owner": "rrrene",
             "repo": "credo",
-            "stars": 5221,
+            "stars": 5222,
             "topics": [
               "code-analysis",
               "credo",
@@ -458,10 +458,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-02T09:52:27Z",
-            "open_issues": 132,
+            "open_issues": 134,
             "owner": "reviewdog",
             "repo": "reviewdog",
-            "stars": 9638,
+            "stars": 9637,
             "topics": [
               "bitbucket",
               "ci",
@@ -496,7 +496,7 @@
             "open_issues": 13,
             "owner": "mvdan",
             "repo": "gofumpt",
-            "stars": 4093,
+            "stars": 4095,
             "topics": [
               "format",
               "go",
@@ -524,7 +524,7 @@
             "open_issues": 19,
             "owner": "kisielk",
             "repo": "errcheck",
-            "stars": 2532,
+            "stars": 2531,
             "topics": [
               "errcheck",
               "error",
@@ -690,7 +690,7 @@
             "open_issues": 6,
             "owner": "mibk",
             "repo": "dupl",
-            "stars": 370,
+            "stars": 369,
             "topics": [
               "code-clones",
               "go",
@@ -713,8 +713,8 @@
             "id": 149125503,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-24T22:16:53Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-02T22:28:25Z",
+            "open_issues": 5,
             "owner": "bombsimon",
             "repo": "wsl",
             "stars": 363,
@@ -902,8 +902,8 @@
             "id": 102137661,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-30T18:35:41Z",
-            "open_issues": 157,
+            "last_commit": "2026-10-02T21:40:22Z",
+            "open_issues": 155,
             "owner": "uber",
             "repo": "NullAway",
             "stars": 4112,
@@ -930,8 +930,8 @@
             "id": 38488726,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T06:25:08Z",
-            "open_issues": 400,
+            "last_commit": "2026-10-02T22:40:56Z",
+            "open_issues": 396,
             "owner": "typetools",
             "repo": "checker-framework",
             "stars": 1150,
@@ -955,8 +955,8 @@
             "id": 300295554,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T13:03:16Z",
-            "open_issues": 62,
+            "last_commit": "2026-10-02T22:42:13Z",
+            "open_issues": 61,
             "owner": "refactorfirst",
             "repo": "RefactorFirst",
             "stars": 549,
@@ -1044,7 +1044,7 @@
             "id": 52020623,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T03:53:01Z",
+            "last_commit": "2026-10-03T04:53:11Z",
             "open_issues": 0,
             "owner": "tomasbjerre",
             "repo": "violations-lib",
@@ -1120,7 +1120,7 @@
             "open_issues": 2,
             "owner": "xojs",
             "repo": "xo",
-            "stars": 7989,
+            "stars": 7988,
             "topics": [
               "best-practices",
               "code-style",
@@ -1201,7 +1201,7 @@
             "open_issues": 81,
             "owner": "aviatesk",
             "repo": "JET.jl",
-            "stars": 883,
+            "stars": 884,
             "topics": [
               "error-detection",
               "julia",
@@ -1269,11 +1269,11 @@
             "id": 14519163,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T22:27:47Z",
+            "last_commit": "2026-10-02T16:58:23Z",
             "open_issues": 121,
             "owner": "verifast",
             "repo": "verifast",
-            "stars": 515,
+            "stars": 516,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
@@ -1352,7 +1352,7 @@
             "open_issues": 76,
             "owner": "nikic",
             "repo": "PHP-Parser",
-            "stars": 17471,
+            "stars": 17469,
             "topics": [
               "ast",
               "parser",
@@ -1378,7 +1378,7 @@
             "open_issues": 248,
             "owner": "squizlabs",
             "repo": "PHP_CodeSniffer",
-            "stars": 10772,
+            "stars": 10771,
             "topics": [
               "automation",
               "cli",
@@ -1491,8 +1491,8 @@
             "id": 32482750,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-25T08:41:32Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-02T16:54:14Z",
+            "open_issues": 7,
             "owner": "phpro",
             "repo": "grumphp",
             "stars": 4316,
@@ -1522,7 +1522,7 @@
             "open_issues": 35,
             "owner": "deptrac",
             "repo": "deptrac",
-            "stars": 3026,
+            "stars": 3027,
             "topics": [
               "architecture",
               "clean-architecture",
@@ -1547,7 +1547,7 @@
             "open_issues": 1,
             "owner": "jakzal",
             "repo": "phpqa",
-            "stars": 1321,
+            "stars": 1320,
             "topics": [
               "code-quality",
               "composer",
@@ -1793,11 +1793,11 @@
             "id": 175129788,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T12:46:25Z",
-            "open_issues": 328,
+            "last_commit": "2026-10-02T23:31:30Z",
+            "open_issues": 331,
             "owner": "microsoft",
             "repo": "pyright",
-            "stars": 15670,
+            "stars": 15671,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
@@ -1839,7 +1839,7 @@
             "open_issues": 71,
             "owner": "jendrikseipp",
             "repo": "vulture",
-            "stars": 4831,
+            "stars": 4832,
             "topics": [
               "dead-code-removal",
               "python"
@@ -1860,7 +1860,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-29T16:27:19Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "PyCQA",
             "repo": "flake8",
             "stars": 3825,
@@ -1897,7 +1897,7 @@
             "open_issues": 34,
             "owner": "dosisod",
             "repo": "refurb",
-            "stars": 2534,
+            "stars": 2533,
             "topics": [
               "cli",
               "gplv3",
@@ -1927,7 +1927,7 @@
             "open_issues": 32,
             "owner": "prospector-dev",
             "repo": "prospector",
-            "stars": 2084,
+            "stars": 2083,
             "topics": [
               "hactoberfest",
               "linter",
@@ -2092,6 +2092,40 @@
           "first_seen": "2026-08-28T20:17:02.505Z"
         },
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "xenon :warning: — Monitor code complexity using",
+              "description": "rubik/radon",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Various code metrics for Python code",
+                "homepage": "http://radon.readthedocs.org/",
+                "id": 5891360,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-10-20T09:52:54Z",
+                "open_issues": 53,
+                "owner": "rubik",
+                "repo": "radon",
+                "stars": 2034,
+                "topics": [
+                  "cli",
+                  "code-analysis",
+                  "python",
+                  "quality-assurance",
+                  "static-analysis"
+                ]
+              },
+              "first_seen": "2026-08-28T20:17:02.505Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Show Deprecated"
+        },
+        {
           "node_type": "item",
           "title": "lintr",
           "description": "Static Code Analysis for R.",
@@ -2127,11 +2161,11 @@
             "id": 103085772,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T08:38:57Z",
-            "open_issues": 123,
+            "last_commit": "2026-10-03T02:27:52Z",
+            "open_issues": 124,
             "owner": "REditorSupport",
             "repo": "languageserver",
-            "stars": 678,
+            "stars": 677,
             "topics": [
               "language-server-protocol",
               "r"
@@ -2151,8 +2185,8 @@
             "id": 624819038,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T14:20:01Z",
-            "open_issues": 256,
+            "last_commit": "2026-10-03T04:19:15Z",
+            "open_issues": 257,
             "owner": "flowr-analysis",
             "repo": "flowr",
             "stars": 104,
@@ -2207,7 +2241,7 @@
             "open_issues": 138,
             "owner": "open-policy-agent",
             "repo": "regal",
-            "stars": 410,
+            "stars": 409,
             "topics": [
               "code-quality",
               "language-server",
@@ -2260,7 +2294,7 @@
             "open_issues": 55,
             "owner": "troessner",
             "repo": "reek",
-            "stars": 4131,
+            "stars": 4132,
             "topics": [
               "linters",
               "parsing",
@@ -2317,7 +2351,7 @@
             "open_issues": 44,
             "owner": "standardrb",
             "repo": "standard",
-            "stars": 2926,
+            "stars": 2925,
             "topics": [
               "formatter",
               "linter",
@@ -2339,8 +2373,8 @@
             "id": 8133216,
             "language": "Ruby",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T12:52:39Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-02T19:25:37Z",
+            "open_issues": 48,
             "owner": "rubysec",
             "repo": "bundler-audit",
             "stars": 2762,
@@ -2396,7 +2430,7 @@
             "id": 86352893,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-01T17:08:19Z",
+            "last_commit": "2026-10-02T15:49:55Z",
             "open_issues": 224,
             "owner": "soutaro",
             "repo": "steep",
@@ -2524,11 +2558,11 @@
             "id": 351882164,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:39:51Z",
-            "open_issues": 477,
+            "last_commit": "2026-10-03T00:09:10Z",
+            "open_issues": 476,
             "owner": "model-checking",
             "repo": "kani",
-            "stars": 3504,
+            "stars": 3505,
             "topics": [
               "model-checking",
               "rust",
@@ -2614,8 +2648,8 @@
             "id": 83153561,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T08:58:50Z",
-            "open_issues": 160,
+            "last_commit": "2026-10-02T20:28:06Z",
+            "open_issues": 161,
             "owner": "rustsec",
             "repo": "advisory-db",
             "stars": 1183,
@@ -2704,11 +2738,11 @@
             "id": 31830551,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T18:15:33Z",
-            "open_issues": 938,
+            "last_commit": "2026-10-02T20:52:50Z",
+            "open_issues": 936,
             "owner": "rust-lang",
             "repo": "rustfmt",
-            "stars": 6979,
+            "stars": 6978,
             "topics": [
               "codeformatter",
               "formatter",
@@ -2853,7 +2887,7 @@
             "open_issues": 16,
             "owner": "tsqllint",
             "repo": "tsqllint",
-            "stars": 229,
+            "stars": 228,
             "topics": [
               "linter",
               "mssql",
@@ -2895,7 +2929,7 @@
             "id": 457896639,
             "language": "Python",
             "license": "PostgreSQL",
-            "last_commit": "2026-10-02T10:39:06Z",
+            "last_commit": "2026-10-03T01:58:41Z",
             "open_issues": 10,
             "owner": "timescale",
             "repo": "pgspot",
@@ -2959,7 +2993,7 @@
             "language": "Scala",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T20:23:19Z",
-            "open_issues": 47,
+            "open_issues": 49,
             "owner": "scapegoat-scala",
             "repo": "scapegoat",
             "stars": 557,
@@ -2988,7 +3022,7 @@
             "open_issues": 10,
             "owner": "anordal",
             "repo": "shellharden",
-            "stars": 4807,
+            "stars": 4806,
             "topics": [
               "lint",
               "policy",
@@ -3009,11 +3043,11 @@
             "id": 66302557,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-01T22:13:06Z",
+            "last_commit": "2026-10-02T23:05:00Z",
             "open_issues": 293,
             "owner": "nicklockwood",
             "repo": "SwiftFormat",
-            "stars": 8930,
+            "stars": 8929,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
@@ -3051,8 +3085,8 @@
             "id": 165536154,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T12:23:56Z",
-            "open_issues": 220,
+            "last_commit": "2026-10-03T01:53:18Z",
+            "open_issues": 219,
             "owner": "typescript-eslint",
             "repo": "typescript-eslint",
             "stars": 16409,
@@ -3116,6 +3150,41 @@
             ]
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tslint :warning: — TSLint has been deprecated as of 2019. Please see this issue",
+              "description": "for more details. is now your best option for linting TypeScript. TSLint is an extensible static analysis tool that checks TypeScript code for readability, maintainability, and functionality errors. It is widely supported across modern editors & build systems and can be customized with your own lint rules, configurations, and formatters.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": ":vertical_traffic_light: An extensible linter for the TypeScript language",
+                "homepage": "http://palantir.github.io/tslint/",
+                "id": 11672345,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2021-03-25T15:41:38Z",
+                "open_issues": 1,
+                "owner": "palantir",
+                "repo": "tslint",
+                "stars": 5899,
+                "topics": [
+                  "linter",
+                  "linting-rules",
+                  "octo-correct-managed",
+                  "static-analysis",
+                  "tslint",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-08-28T20:17:02.505Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Show Deprecated"
         },
         {
           "node_type": "item",
@@ -3243,110 +3312,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "jshint :information_source:",
-          "description": "warning: — Detect errors and potential problems in JavaScript code and enforce your team's coding conventions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.",
-            "homepage": "https://analysis-tools.dev",
-            "id": 48246447,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-10-02T11:05:38Z",
-            "open_issues": 2,
-            "owner": "analysis-tools-dev",
-            "repo": "static-analysis",
-            "stars": 14820,
-            "topics": [
-              "analysis",
-              "awesome-list",
-              "code-quality",
-              "hacktoberfest",
-              "linter",
-              "sast",
-              "static-analysis",
-              "static-analyzers",
-              "static-code-analysis"
-            ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        }
-      ],
-      "title": "Show Deprecated"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "xenon :warning: — Monitor code complexity using",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Various code metrics for Python code",
-            "homepage": "http://radon.readthedocs.org/",
-            "id": 5891360,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2024-10-20T09:52:54Z",
-            "open_issues": 53,
-            "owner": "rubik",
-            "repo": "radon",
-            "stars": 2034,
-            "topics": [
-              "cli",
-              "code-analysis",
-              "python",
-              "quality-assurance",
-              "static-analysis"
-            ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        }
-      ],
-      "title": "Show Deprecated"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "tslint :warning: — TSLint has been deprecated as of 2019. Please see this issue",
-          "description": "for more details. is now your best option for linting TypeScript. TSLint is an extensible static analysis tool that checks TypeScript code for readability, maintainability, and functionality errors. It is widely supported across modern editors & build systems and can be customized with your own lint rules, configurations, and formatters.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": ":vertical_traffic_light: An extensible linter for the TypeScript language",
-            "homepage": "http://palantir.github.io/tslint/",
-            "id": 11672345,
-            "language": "TypeScript",
-            "license": "Apache-2.0",
-            "last_commit": "2021-03-25T15:41:38Z",
-            "open_issues": 1,
-            "owner": "palantir",
-            "repo": "tslint",
-            "stars": 5899,
-            "topics": [
-              "linter",
-              "linting-rules",
-              "octo-correct-managed",
-              "static-analysis",
-              "tslint",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        }
-      ],
-      "title": "Show Deprecated"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "trivy",
           "description": "A Simple and Comprehensive Vulnerability Scanner for Containers and other Artifacts, Suitable for CI. Trivy detects vulnerabilities of OS packages (Alpine, RHEL, CentOS, etc.) and application dependencies (Bundler, Composer, npm, yarn, etc.). Checks containers and filesystems.",
           "children": [],
@@ -3358,10 +3323,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T08:30:44Z",
-            "open_issues": 253,
+            "open_issues": 254,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 38192,
+            "stars": 38203,
             "topics": [
               "containers",
               "devsecops",
@@ -3394,11 +3359,11 @@
             "id": 11061773,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T08:44:54Z",
-            "open_issues": 124,
+            "last_commit": "2026-10-02T20:07:08Z",
+            "open_issues": 123,
             "owner": "eslint",
             "repo": "eslint",
-            "stars": 27532,
+            "stars": 27531,
             "topics": [
               "ecmascript",
               "eslint",
@@ -3421,11 +3386,11 @@
             "id": 599431918,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-02T14:30:48Z",
-            "open_issues": 938,
+            "last_commit": "2026-10-03T03:59:10Z",
+            "open_issues": 945,
             "owner": "oxc-project",
             "repo": "oxc",
-            "stars": 22935,
+            "stars": 22934,
             "topics": [
               "compiler",
               "javascript",
@@ -3454,7 +3419,7 @@
             "open_issues": 591,
             "owner": "dense-analysis",
             "repo": "ale",
-            "stars": 14020,
+            "stars": 14019,
             "topics": [
               "autocomplete",
               "language-server-protocol",
@@ -3484,11 +3449,11 @@
             "id": 143040428,
             "language": "CodeQL",
             "license": "MIT",
-            "last_commit": "2026-10-02T13:54:43Z",
-            "open_issues": 1481,
+            "last_commit": "2026-10-02T15:57:06Z",
+            "open_issues": 1478,
             "owner": "github",
             "repo": "codeql",
-            "stars": 10155,
+            "stars": 10158,
             "topics": [
               "codeql",
               "github-advanced-security",
@@ -3580,8 +3545,8 @@
             "id": 1150877418,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T18:15:47Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-03T04:08:59Z",
+            "open_issues": 3,
             "owner": "Ataraxy-Labs",
             "repo": "sem",
             "stars": 3369,
@@ -3612,7 +3577,7 @@
             "id": 23050110,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-23T10:58:06Z",
+            "last_commit": "2026-10-03T02:42:02Z",
             "open_issues": 1,
             "owner": "classgraph",
             "repo": "classgraph",
@@ -3637,7 +3602,7 @@
             "open_issues": 26,
             "owner": "Bearer",
             "repo": "bearer",
-            "stars": 2753,
+            "stars": 2755,
             "topics": [
               "appsec",
               "code-quality",
@@ -3704,10 +3669,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T04:44:07Z",
-            "open_issues": 26,
+            "open_issues": 31,
             "owner": "terryyin",
             "repo": "lizard",
-            "stars": 2541,
+            "stars": 2543,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
@@ -3866,7 +3831,7 @@
             "open_issues": 80,
             "owner": "microsoft",
             "repo": "DevSkim",
-            "stars": 1008,
+            "stars": 1009,
             "topics": [
               "linter",
               "sdl",
@@ -3890,7 +3855,7 @@
             "language": "Java",
             "license": "EPL-2.0",
             "last_commit": "2026-09-28T19:10:37Z",
-            "open_issues": 151,
+            "open_issues": 154,
             "owner": "wala",
             "repo": "WALA",
             "stars": 873,
@@ -3925,7 +3890,7 @@
             "open_issues": 0,
             "owner": "duriantaco",
             "repo": "skylos",
-            "stars": 842,
+            "stars": 841,
             "topics": [
               "ai-agents",
               "ai-code-review",
@@ -4059,7 +4024,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-29T18:35:43Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "jayu",
             "repo": "rev-dep",
             "stars": 260,
@@ -4125,7 +4090,7 @@
             "open_issues": 9,
             "owner": "RoloBits",
             "repo": "nestjs-doctor",
-            "stars": 168,
+            "stars": 169,
             "topics": [
               "agents",
               "code-review",
@@ -4213,7 +4178,7 @@
             "open_issues": 0,
             "owner": "codingjoe",
             "repo": "relint",
-            "stars": 66,
+            "stars": 65,
             "topics": [
               "hacktoberfest",
               "lint",
@@ -4366,11 +4331,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-02T13:13:50Z",
-            "open_issues": 741,
+            "last_commit": "2026-10-03T04:57:02Z",
+            "open_issues": 746,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9122,
+            "stars": 9123,
             "topics": [
               "analysis",
               "angr",
@@ -4395,7 +4360,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "bloaty",
-            "stars": 5553,
+            "stars": 5554,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
@@ -4546,11 +4511,11 @@
             "id": 159678706,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-29T22:40:39Z",
+            "last_commit": "2026-10-02T17:10:37Z",
             "open_issues": 2,
             "owner": "horsicq",
             "repo": "Nauz-File-Detector",
-            "stars": 583,
+            "stars": 584,
             "topics": [
               "detect",
               "hacktoberfest",
@@ -4580,7 +4545,7 @@
             "open_issues": 43,
             "owner": "checkmake",
             "repo": "checkmake",
-            "stars": 1216,
+            "stars": 1217,
             "topics": [
               "hacktoberfest",
               "lint",
@@ -4767,8 +4732,8 @@
             "id": 267054247,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:12:26Z",
-            "open_issues": 413,
+            "last_commit": "2026-10-02T16:52:07Z",
+            "open_issues": 417,
             "owner": "anchore",
             "repo": "grype",
             "stars": 12965,
@@ -4964,10 +4929,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-02T09:52:27Z",
-            "open_issues": 132,
+            "open_issues": 134,
             "owner": "reviewdog",
             "repo": "reviewdog",
-            "stars": 9638,
+            "stars": 9637,
             "topics": [
               "bitbucket",
               "ci",
@@ -4998,8 +4963,8 @@
             "id": 300295554,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T13:03:16Z",
-            "open_issues": 62,
+            "last_commit": "2026-10-02T22:42:13Z",
+            "open_issues": 61,
             "owner": "refactorfirst",
             "repo": "RefactorFirst",
             "stars": 549,
@@ -5030,7 +4995,7 @@
             "id": 52020623,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T03:53:01Z",
+            "last_commit": "2026-10-03T04:53:11Z",
             "open_issues": 0,
             "owner": "tomasbjerre",
             "repo": "violations-lib",
@@ -5233,6 +5198,67 @@
           "first_seen": "2026-08-28T20:17:02.505Z"
         },
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "grunt-bootlint :warning: — A Grunt wrapper for Bootlint",
+              "description": ", the HTML linter for Bootstrap projects.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "HTML linter for Bootstrap projects",
+                "homepage": null,
+                "id": 21428312,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2022-01-27T15:10:29Z",
+                "open_issues": 47,
+                "owner": "twbs",
+                "repo": "bootlint",
+                "stars": 2377,
+                "topics": [
+                  "bookmarklet",
+                  "bootlint",
+                  "bootstrap",
+                  "html",
+                  "linter"
+                ]
+              },
+              "first_seen": "2026-08-28T20:17:02.505Z"
+            },
+            {
+              "node_type": "item",
+              "title": "gulp-bootlint :warning: — A gulp wrapper for Bootlint",
+              "description": ", the HTML linter for Bootstrap projects.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "HTML linter for Bootstrap projects",
+                "homepage": null,
+                "id": 21428312,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2022-01-27T15:10:29Z",
+                "open_issues": 47,
+                "owner": "twbs",
+                "repo": "bootlint",
+                "stars": 2377,
+                "topics": [
+                  "bookmarklet",
+                  "bootlint",
+                  "bootstrap",
+                  "html",
+                  "linter"
+                ]
+              },
+              "first_seen": "2026-08-28T20:17:02.505Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Show Deprecated"
+        },
+        {
           "node_type": "item",
           "title": "kube-linter",
           "description": "KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.",
@@ -5248,7 +5274,7 @@
             "open_issues": 89,
             "owner": "stackrox",
             "repo": "kube-linter",
-            "stars": 3517,
+            "stars": 3518,
             "topics": [
               "hacktoberfest",
               "hactoberfest",
@@ -5276,7 +5302,7 @@
             "open_issues": 91,
             "owner": "yannh",
             "repo": "kubeconform",
-            "stars": 3208,
+            "stars": 3210,
             "topics": [
               "compliance",
               "kubernetes",
@@ -5301,7 +5327,7 @@
             "open_issues": 2,
             "owner": "helm",
             "repo": "chart-testing",
-            "stars": 1645,
+            "stars": 1644,
             "topics": [
               "docker",
               "golang",
@@ -5392,7 +5418,7 @@
             "open_issues": 89,
             "owner": "stackrox",
             "repo": "kube-linter",
-            "stars": 3517,
+            "stars": 3518,
             "topics": [
               "hacktoberfest",
               "hactoberfest",
@@ -5446,7 +5472,7 @@
             "open_issues": 43,
             "owner": "checkmake",
             "repo": "checkmake",
-            "stars": 1216,
+            "stars": 1217,
             "topics": [
               "hacktoberfest",
               "lint",
@@ -5469,8 +5495,8 @@
             "id": 32246828,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T05:11:30Z",
-            "open_issues": 84,
+            "last_commit": "2026-10-03T04:46:46Z",
+            "open_issues": 83,
             "owner": "DavidAnson",
             "repo": "markdownlint",
             "stars": 6364,
@@ -5561,7 +5587,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-29T16:27:19Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "PyCQA",
             "repo": "flake8",
             "stars": 3825,
@@ -5598,7 +5624,7 @@
             "open_issues": 32,
             "owner": "prospector-dev",
             "repo": "prospector",
-            "stars": 2084,
+            "stars": 2083,
             "topics": [
               "hactoberfest",
               "linter",
@@ -5805,8 +5831,8 @@
             "id": 161958912,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-01T02:42:30Z",
-            "open_issues": 45,
+            "last_commit": "2026-10-03T03:20:32Z",
+            "open_issues": 44,
             "owner": "yoheimuta",
             "repo": "protolint",
             "stars": 694,
@@ -5971,7 +5997,7 @@
             "open_issues": 489,
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 29612,
+            "stars": 29625,
             "topics": [
               "ai-powered",
               "ci-cd",
@@ -6009,8 +6035,8 @@
             "id": 267054247,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:12:26Z",
-            "open_issues": 413,
+            "last_commit": "2026-10-02T16:52:07Z",
+            "open_issues": 417,
             "owner": "anchore",
             "repo": "grype",
             "stars": 12965,
@@ -6050,7 +6076,7 @@
             "open_issues": 184,
             "owner": "Yelp",
             "repo": "detect-secrets",
-            "stars": 4647,
+            "stars": 4648,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
@@ -6067,11 +6093,11 @@
             "id": 351882164,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:39:51Z",
-            "open_issues": 477,
+            "last_commit": "2026-10-03T00:09:10Z",
+            "open_issues": 476,
             "owner": "model-checking",
             "repo": "kani",
-            "stars": 3504,
+            "stars": 3505,
             "topics": [
               "model-checking",
               "rust",
@@ -6128,7 +6154,7 @@
             "open_issues": 14,
             "owner": "google",
             "repo": "tsunami-security-scanner",
-            "stars": 8620,
+            "stars": 8617,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
@@ -6186,11 +6212,11 @@
             "id": 302670797,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T08:29:07Z",
-            "open_issues": 448,
+            "last_commit": "2026-10-02T16:06:43Z",
+            "open_issues": 447,
             "owner": "ossf",
             "repo": "scorecard",
-            "stars": 5732,
+            "stars": 5731,
             "topics": [
               "openssf-scorecard",
               "scorecard"
@@ -6271,7 +6297,7 @@
             "open_issues": 480,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6375,
+            "stars": 6374,
             "topics": [
               "ethereum",
               "solidity",
@@ -6293,8 +6319,8 @@
             "id": 300295554,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T13:03:16Z",
-            "open_issues": 62,
+            "last_commit": "2026-10-02T22:42:13Z",
+            "open_issues": 61,
             "owner": "refactorfirst",
             "repo": "RefactorFirst",
             "stars": 549,
@@ -6325,7 +6351,7 @@
             "id": 52020623,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T03:53:01Z",
+            "last_commit": "2026-10-03T04:53:11Z",
             "open_issues": 0,
             "owner": "tomasbjerre",
             "repo": "violations-lib",
@@ -6434,7 +6460,7 @@
             "open_issues": 236,
             "owner": "amperser",
             "repo": "proselint",
-            "stars": 4580,
+            "stars": 4581,
             "topics": [
               "advice",
               "knowledge",
@@ -6463,73 +6489,13 @@
             "open_issues": 269,
             "owner": "codespell-project",
             "repo": "codespell",
-            "stars": 2429,
+            "stars": 2431,
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:02.505Z"
         }
       ],
       "title": "Other"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "grunt-bootlint :warning: — A Grunt wrapper for Bootlint",
-          "description": ", the HTML linter for Bootstrap projects.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "HTML linter for Bootstrap projects",
-            "homepage": null,
-            "id": 21428312,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2022-01-27T15:10:29Z",
-            "open_issues": 47,
-            "owner": "twbs",
-            "repo": "bootlint",
-            "stars": 2378,
-            "topics": [
-              "bookmarklet",
-              "bootlint",
-              "bootstrap",
-              "html",
-              "linter"
-            ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "gulp-bootlint :warning: — A gulp wrapper for Bootlint",
-          "description": ", the HTML linter for Bootstrap projects.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "HTML linter for Bootstrap projects",
-            "homepage": null,
-            "id": 21428312,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2022-01-27T15:10:29Z",
-            "open_issues": 47,
-            "owner": "twbs",
-            "repo": "bootlint",
-            "stars": 2378,
-            "topics": [
-              "bookmarklet",
-              "bootlint",
-              "bootstrap",
-              "html",
-              "linter"
-            ]
-          },
-          "first_seen": "2026-08-28T20:17:02.505Z"
-        }
-      ],
-      "title": "Show Deprecated"
     },
     {
       "description": null,
@@ -6615,7 +6581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:50:28.832Z",
+    "last_updated": "2026-10-03T05:13:51.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.",
@@ -6627,7 +6593,7 @@
       "open_issues": 2,
       "owner": "analysis-tools-dev",
       "repo": "static-analysis",
-      "stars": 14820,
+      "stars": 14821,
       "topics": [
         "analysis",
         "awesome-list",
